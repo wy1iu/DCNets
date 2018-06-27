@@ -26,9 +26,7 @@ Inner product-based convolution has been a central component of convolutional ne
 
 Specifically, we first reparametrize the inner product to a decoupled form and then generalize it to the decoupled convolution operator which serves as the building block of our decoupled networks. We present several effective instances of the decoupled convolution operator. Each decoupled operator is well motivated and has an intuitive geometric interpretation. Based on these decoupled operators, we further propose to directly learn the operator from data.
 
-The latest version of our paper is available at [arXiv](https://arxiv.org/abs/1804.08071) and [here](http://wyliu.com/papers/LiuCVPR18_DCNets.pdf).
-
-Our work is largely inspired and motivated by the observation that the CNN-learned features are naturally decoupled, as shown as follows.
+The latest version of our paper is available at [arXiv](https://arxiv.org/abs/1804.08071) and [here](http://wyliu.com/papers/LiuCVPR18_DCNets.pdf). Our work is largely inspired and motivated by the observation that the CNN-learned features are naturally decoupled, as shown as follows.
 
 <img src="assets/decoupled_features.png" width="47%" height="47%">
 
