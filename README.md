@@ -26,10 +26,10 @@ Decoupled Networks is released under the MIT License (refer to the LICENSE file 
 Inner product-based convolution has been a central component of convolutional neural networks (CNNs) and the key to learning visual representations. Inspired by the observation that CNN-learned features are naturally decoupled with the norm of features corresponding to the intra-class variation and the angle corresponding to the semantic difference, we propose a generic decoupled learning framework which models the intra-class variation and semantic difference independently. Specifically, we first reparametrize the inner product to a decoupled form and then generalize it to the decoupled convolution operator which serves as the building block of our decoupled networks. We present several effective instances of the decoupled convolution operator. Each decoupled operator is well motivated and has an intuitive geometric interpretation. Based on these decoupled operators, we further propose to directly learn the operator from data. Extensive experiments show that such decoupled reparameterization renders significant performance gain with easier convergence and stronger robustness. The latest version of our paper is available at [arXiv](https://arxiv.org/abs/1804.08071) and [here](http://wyliu.com/papers/LiuCVPR18_DCNets.pdf).
 
 Our work is largely inspired and motivated by the observation that the CNN-learned features are naturally decoupled, shown as follows.
-<img src="asserts/deoupled_features.png" width="52%" height="52%">
+<img src="asserts/decoupled_features.png" width="52%" height="52%">
 
 The central idea of decoupled networks lies in the decoupled convolution, which is used to replace all the original convolution operators.
-<img src="asserts/deoupled_conv.png" width="52%" height="52%">
+<img src="asserts/decoupled_conv.png" width="52%" height="52%">
 
 ### Citation
 
