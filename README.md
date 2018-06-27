@@ -73,6 +73,8 @@ If you find our work useful in your research, please consider to cite:
 	python train_resnet.py
 	```
 
+  - To train other models, change the model name (`tanh_cos`) in the script above to your desired one.
+
 #### Part 3: ImageNet-2012
 
   - Download [ImageNet-2012](http://www.image-net.org/) dataset and process the dataset with [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/research/slim#an-automated-script-for-processing-imagenet-data).
