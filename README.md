@@ -26,7 +26,7 @@ Inner product-based convolution has been a central component of convolutional ne
 
 Our work is largely inspired and motivated by the observation that the CNN-learned features are naturally decoupled, as shown as follows.
 
-<img src="asserts/decoupled_features.png" width="42%" height="42%">
+<img src="asserts/decoupled_features.png" width="47%" height="47%">
 
 As illustrated as follows, the central idea of decoupled networks is the *decoupled convolution*, which is used to replace all the original convolution operators.
 
