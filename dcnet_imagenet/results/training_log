@@ -1,0 +1,1575 @@
+====iteration_500: fit=6.7269, reg=0.4253, orth=0.0179, top1=0.0000, top5=0.0000
+====iteration_1000: fit=6.6959, reg=0.3932, orth=0.0179, top1=0.0000, top5=0.0250
+====iteration_1500: fit=6.1400, reg=0.3666, orth=0.0205, top1=0.0000, top5=0.0000
+====iteration_2000: fit=6.2034, reg=0.3445, orth=0.0234, top1=0.0000, top5=0.0500
+====iteration_2500: fit=6.1550, reg=0.3267, orth=0.0278, top1=0.0500, top5=0.1000
+====iteration_3000: fit=6.1346, reg=0.3126, orth=0.0324, top1=0.0000, top5=0.0250
+====iteration_3500: fit=5.5171, reg=0.3014, orth=0.0382, top1=0.0500, top5=0.0750
+====iteration_4000: fit=5.5409, reg=0.2919, orth=0.0439, top1=0.0000, top5=0.1000
+++++iteration_4000: top1=0.0069, top5=0.0300
+====iteration_4500: fit=5.3902, reg=0.2862, orth=0.0496, top1=0.1000, top5=0.1750
+====iteration_5000: fit=5.2951, reg=0.2815, orth=0.0544, top1=0.0750, top5=0.2000
+====iteration_5500: fit=5.2140, reg=0.2791, orth=0.0597, top1=0.0500, top5=0.2250
+====iteration_6000: fit=5.5902, reg=0.2795, orth=0.0655, top1=0.0250, top5=0.1250
+====iteration_6500: fit=5.2304, reg=0.2794, orth=0.0704, top1=0.0750, top5=0.1250
+====iteration_7000: fit=4.6197, reg=0.2814, orth=0.0761, top1=0.1250, top5=0.3000
+====iteration_7500: fit=4.7765, reg=0.2849, orth=0.0816, top1=0.0500, top5=0.2500
+====iteration_8000: fit=4.9090, reg=0.2882, orth=0.0869, top1=0.1000, top5=0.3000
+++++iteration_8000: top1=0.0221, top5=0.0725
+====iteration_8500: fit=4.8445, reg=0.2925, orth=0.0922, top1=0.0750, top5=0.2000
+====iteration_9000: fit=4.9351, reg=0.2967, orth=0.0973, top1=0.0500, top5=0.2000
+====iteration_9500: fit=4.9975, reg=0.3019, orth=0.1021, top1=0.0750, top5=0.2750
+====iteration_10000: fit=4.4798, reg=0.3070, orth=0.1065, top1=0.1250, top5=0.3500
+====iteration_10500: fit=4.5195, reg=0.3125, orth=0.1109, top1=0.1500, top5=0.3000
+====iteration_11000: fit=4.3885, reg=0.3176, orth=0.1143, top1=0.1000, top5=0.3750
+====iteration_11500: fit=4.6576, reg=0.3225, orth=0.1183, top1=0.1500, top5=0.3250
+====iteration_12000: fit=4.0872, reg=0.3283, orth=0.1216, top1=0.2250, top5=0.4750
+++++iteration_12000: top1=0.0233, top5=0.0782
+====iteration_12500: fit=4.0452, reg=0.3335, orth=0.1243, top1=0.1750, top5=0.3500
+====iteration_13000: fit=4.9899, reg=0.3391, orth=0.1282, top1=0.1500, top5=0.2250
+====iteration_13500: fit=4.4970, reg=0.3436, orth=0.1302, top1=0.1250, top5=0.2750
+====iteration_14000: fit=4.0836, reg=0.3494, orth=0.1323, top1=0.2250, top5=0.4750
+====iteration_14500: fit=4.1781, reg=0.3549, orth=0.1346, top1=0.2500, top5=0.5250
+====iteration_15000: fit=4.3884, reg=0.3599, orth=0.1367, top1=0.1000, top5=0.3750
+====iteration_15500: fit=4.6096, reg=0.3653, orth=0.1390, top1=0.1500, top5=0.2750
+====iteration_16000: fit=3.8245, reg=0.3702, orth=0.1406, top1=0.2500, top5=0.3750
+++++iteration_16000: top1=0.0783, top5=0.2112
+====iteration_16500: fit=3.7585, reg=0.3757, orth=0.1420, top1=0.2250, top5=0.4750
+====iteration_17000: fit=3.7878, reg=0.3807, orth=0.1436, top1=0.2500, top5=0.5500
+====iteration_17500: fit=4.0987, reg=0.3853, orth=0.1453, top1=0.2250, top5=0.4250
+====iteration_18000: fit=4.3393, reg=0.3894, orth=0.1458, top1=0.1000, top5=0.4250
+====iteration_18500: fit=3.9468, reg=0.3943, orth=0.1473, top1=0.1750, top5=0.4250
+====iteration_19000: fit=4.0823, reg=0.3987, orth=0.1489, top1=0.2250, top5=0.5000
+====iteration_19500: fit=4.3111, reg=0.4024, orth=0.1494, top1=0.1500, top5=0.3500
+====iteration_20000: fit=3.7259, reg=0.4065, orth=0.1502, top1=0.1750, top5=0.5500
+++++iteration_20000: top1=0.0812, top5=0.2012
+====iteration_20500: fit=3.6190, reg=0.4103, orth=0.1506, top1=0.2750, top5=0.5250
+====iteration_21000: fit=4.6619, reg=0.4144, orth=0.1521, top1=0.0750, top5=0.3000
+====iteration_21500: fit=4.2658, reg=0.4176, orth=0.1522, top1=0.1250, top5=0.3500
+====iteration_22000: fit=4.0669, reg=0.4216, orth=0.1521, top1=0.2750, top5=0.3750
+====iteration_22500: fit=4.2041, reg=0.4256, orth=0.1528, top1=0.1500, top5=0.3250
+====iteration_23000: fit=3.7680, reg=0.4294, orth=0.1538, top1=0.1750, top5=0.4500
+====iteration_23500: fit=3.3552, reg=0.4323, orth=0.1535, top1=0.3250, top5=0.4750
+====iteration_24000: fit=4.0162, reg=0.4346, orth=0.1544, top1=0.1500, top5=0.3750
+++++iteration_24000: top1=0.0637, top5=0.1807
+====iteration_24500: fit=4.6707, reg=0.4385, orth=0.1544, top1=0.1250, top5=0.3250
+====iteration_25000: fit=3.7050, reg=0.4428, orth=0.1548, top1=0.2250, top5=0.4250
+====iteration_25500: fit=3.7939, reg=0.4459, orth=0.1552, top1=0.2000, top5=0.4250
+====iteration_26000: fit=3.7862, reg=0.4483, orth=0.1557, top1=0.2000, top5=0.4500
+====iteration_26500: fit=3.9890, reg=0.4512, orth=0.1555, top1=0.2750, top5=0.4500
+====iteration_27000: fit=3.6289, reg=0.4537, orth=0.1558, top1=0.2750, top5=0.6000
+====iteration_27500: fit=3.7131, reg=0.4567, orth=0.1557, top1=0.2000, top5=0.4250
+====iteration_28000: fit=3.9445, reg=0.4593, orth=0.1555, top1=0.2250, top5=0.4000
+++++iteration_28000: top1=0.0415, top5=0.1195
+====iteration_28500: fit=3.7554, reg=0.4623, orth=0.1562, top1=0.1250, top5=0.3750
+====iteration_29000: fit=3.5142, reg=0.4647, orth=0.1563, top1=0.3250, top5=0.5500
+====iteration_29500: fit=3.7581, reg=0.4669, orth=0.1561, top1=0.2250, top5=0.5000
+====iteration_30000: fit=3.7063, reg=0.4697, orth=0.1566, top1=0.2000, top5=0.5500
+====iteration_30500: fit=3.7448, reg=0.4713, orth=0.1561, top1=0.2250, top5=0.4500
+====iteration_31000: fit=3.7745, reg=0.4742, orth=0.1564, top1=0.2750, top5=0.4500
+====iteration_31500: fit=3.9078, reg=0.4759, orth=0.1559, top1=0.2250, top5=0.4250
+====iteration_32000: fit=3.6177, reg=0.4769, orth=0.1562, top1=0.2250, top5=0.5000
+++++iteration_32000: top1=0.0400, top5=0.1135
+====iteration_32500: fit=4.4265, reg=0.4791, orth=0.1563, top1=0.1750, top5=0.3500
+====iteration_33000: fit=4.2268, reg=0.4808, orth=0.1558, top1=0.1000, top5=0.4000
+====iteration_33500: fit=3.0503, reg=0.4834, orth=0.1560, top1=0.3500, top5=0.7000
+====iteration_34000: fit=3.2589, reg=0.4838, orth=0.1556, top1=0.2500, top5=0.5500
+====iteration_34500: fit=3.6873, reg=0.4855, orth=0.1554, top1=0.2000, top5=0.4750
+====iteration_35000: fit=4.4958, reg=0.4874, orth=0.1557, top1=0.1000, top5=0.3250
+====iteration_35500: fit=3.2831, reg=0.4883, orth=0.1554, top1=0.3250, top5=0.5500
+====iteration_36000: fit=3.1883, reg=0.4900, orth=0.1562, top1=0.2750, top5=0.5750
+++++iteration_36000: top1=0.0501, top5=0.1362
+====iteration_36500: fit=3.9356, reg=0.4907, orth=0.1556, top1=0.1750, top5=0.4000
+====iteration_37000: fit=4.0310, reg=0.4918, orth=0.1557, top1=0.2500, top5=0.5000
+====iteration_37500: fit=3.8919, reg=0.4932, orth=0.1552, top1=0.2500, top5=0.4250
+====iteration_38000: fit=3.9388, reg=0.4944, orth=0.1549, top1=0.2000, top5=0.4750
+====iteration_38500: fit=4.3056, reg=0.4950, orth=0.1550, top1=0.1250, top5=0.3000
+====iteration_39000: fit=4.2261, reg=0.4971, orth=0.1551, top1=0.2250, top5=0.4000
+====iteration_39500: fit=3.7845, reg=0.4963, orth=0.1548, top1=0.2750, top5=0.4500
+====iteration_40000: fit=3.8253, reg=0.4982, orth=0.1552, top1=0.1750, top5=0.4000
+++++iteration_40000: top1=0.0391, top5=0.1263
+====iteration_40500: fit=3.9415, reg=0.4999, orth=0.1550, top1=0.2000, top5=0.4000
+====iteration_41000: fit=3.5777, reg=0.5002, orth=0.1546, top1=0.2750, top5=0.6000
+====iteration_41500: fit=3.7707, reg=0.5014, orth=0.1548, top1=0.2250, top5=0.4750
+====iteration_42000: fit=3.4477, reg=0.5018, orth=0.1546, top1=0.2750, top5=0.5250
+====iteration_42500: fit=3.6521, reg=0.5024, orth=0.1548, top1=0.2500, top5=0.5250
+====iteration_43000: fit=3.4010, reg=0.5037, orth=0.1545, top1=0.3750, top5=0.5250
+====iteration_43500: fit=3.8749, reg=0.5051, orth=0.1545, top1=0.2000, top5=0.5000
+====iteration_44000: fit=3.5898, reg=0.5050, orth=0.1545, top1=0.2500, top5=0.5250
+++++iteration_44000: top1=0.0932, top5=0.2399
+====iteration_44500: fit=3.6594, reg=0.5063, orth=0.1543, top1=0.2250, top5=0.5000
+====iteration_45000: fit=3.5167, reg=0.5069, orth=0.1544, top1=0.2250, top5=0.4750
+====iteration_45500: fit=3.9450, reg=0.5075, orth=0.1542, top1=0.2000, top5=0.4000
+====iteration_46000: fit=4.2650, reg=0.5084, orth=0.1544, top1=0.2250, top5=0.4250
+====iteration_46500: fit=3.4133, reg=0.5087, orth=0.1542, top1=0.2500, top5=0.5500
+====iteration_47000: fit=4.1058, reg=0.5091, orth=0.1542, top1=0.2500, top5=0.4250
+====iteration_47500: fit=3.9055, reg=0.5109, orth=0.1541, top1=0.2500, top5=0.4750
+====iteration_48000: fit=3.9364, reg=0.5113, orth=0.1543, top1=0.2250, top5=0.5500
+++++iteration_48000: top1=0.0444, top5=0.1253
+====iteration_48500: fit=3.2219, reg=0.5114, orth=0.1536, top1=0.3000, top5=0.5500
+====iteration_49000: fit=3.5038, reg=0.5120, orth=0.1538, top1=0.3250, top5=0.5000
+====iteration_49500: fit=4.0492, reg=0.5126, orth=0.1537, top1=0.2250, top5=0.4000
+====iteration_50000: fit=3.5663, reg=0.5142, orth=0.1539, top1=0.2750, top5=0.5000
+====iteration_50500: fit=3.8734, reg=0.5156, orth=0.1539, top1=0.2250, top5=0.4750
+====iteration_51000: fit=4.2166, reg=0.5178, orth=0.1537, top1=0.1250, top5=0.4000
+====iteration_51500: fit=3.7552, reg=0.5179, orth=0.1536, top1=0.2500, top5=0.5250
+====iteration_52000: fit=3.4182, reg=0.5196, orth=0.1534, top1=0.3250, top5=0.5000
+++++iteration_52000: top1=0.0710, top5=0.1834
+====iteration_52500: fit=4.0578, reg=0.5207, orth=0.1536, top1=0.2000, top5=0.3250
+====iteration_53000: fit=3.9530, reg=0.5212, orth=0.1535, top1=0.2250, top5=0.4000
+====iteration_53500: fit=3.6815, reg=0.5224, orth=0.1533, top1=0.2500, top5=0.5750
+====iteration_54000: fit=3.7737, reg=0.5223, orth=0.1531, top1=0.3000, top5=0.5000
+====iteration_54500: fit=3.2165, reg=0.5232, orth=0.1534, top1=0.2500, top5=0.6250
+====iteration_55000: fit=4.0965, reg=0.5234, orth=0.1531, top1=0.1750, top5=0.4000
+====iteration_55500: fit=3.8757, reg=0.5243, orth=0.1531, top1=0.2750, top5=0.4000
+====iteration_56000: fit=3.0071, reg=0.5235, orth=0.1527, top1=0.3750, top5=0.6250
+++++iteration_56000: top1=0.0457, top5=0.1390
+====iteration_56500: fit=3.9440, reg=0.5240, orth=0.1534, top1=0.3000, top5=0.4500
+====iteration_57000: fit=4.2620, reg=0.5242, orth=0.1531, top1=0.2000, top5=0.4000
+====iteration_57500: fit=3.8936, reg=0.5248, orth=0.1531, top1=0.2750, top5=0.4500
+====iteration_58000: fit=4.1931, reg=0.5258, orth=0.1530, top1=0.1750, top5=0.4250
+====iteration_58500: fit=4.2128, reg=0.5264, orth=0.1526, top1=0.1500, top5=0.4500
+====iteration_59000: fit=4.2690, reg=0.5259, orth=0.1521, top1=0.1250, top5=0.3250
+====iteration_59500: fit=3.8582, reg=0.5265, orth=0.1525, top1=0.2250, top5=0.4250
+====iteration_60000: fit=4.3056, reg=0.5258, orth=0.1522, top1=0.1750, top5=0.3500
+++++iteration_60000: top1=0.0406, top5=0.1181
+====iteration_60500: fit=3.6529, reg=0.5267, orth=0.1522, top1=0.3000, top5=0.4500
+====iteration_61000: fit=3.7689, reg=0.5266, orth=0.1520, top1=0.2500, top5=0.5500
+====iteration_61500: fit=4.1695, reg=0.5279, orth=0.1520, top1=0.2250, top5=0.4750
+====iteration_62000: fit=4.4718, reg=0.5285, orth=0.1521, top1=0.2250, top5=0.3250
+====iteration_62500: fit=3.0005, reg=0.5290, orth=0.1518, top1=0.3250, top5=0.6750
+====iteration_63000: fit=3.8831, reg=0.5288, orth=0.1519, top1=0.1750, top5=0.4250
+====iteration_63500: fit=3.9203, reg=0.5288, orth=0.1515, top1=0.2500, top5=0.4750
+====iteration_64000: fit=3.8308, reg=0.5286, orth=0.1516, top1=0.1250, top5=0.5500
+++++iteration_64000: top1=0.0918, top5=0.2253
+====iteration_64500: fit=4.0751, reg=0.5291, orth=0.1512, top1=0.3000, top5=0.4250
+====iteration_65000: fit=3.3230, reg=0.5300, orth=0.1514, top1=0.2750, top5=0.6000
+====iteration_65500: fit=3.7213, reg=0.5291, orth=0.1508, top1=0.2000, top5=0.4250
+====iteration_66000: fit=3.7632, reg=0.5298, orth=0.1516, top1=0.1750, top5=0.4250
+====iteration_66500: fit=3.6590, reg=0.5303, orth=0.1515, top1=0.3750, top5=0.5250
+====iteration_67000: fit=3.7887, reg=0.5308, orth=0.1515, top1=0.1500, top5=0.5000
+====iteration_67500: fit=3.2115, reg=0.5309, orth=0.1516, top1=0.2250, top5=0.5750
+====iteration_68000: fit=4.2997, reg=0.5310, orth=0.1519, top1=0.2250, top5=0.4000
+++++iteration_68000: top1=0.0809, top5=0.2114
+====iteration_68500: fit=3.7690, reg=0.5307, orth=0.1516, top1=0.2250, top5=0.4250
+====iteration_69000: fit=3.7171, reg=0.5319, orth=0.1516, top1=0.1750, top5=0.5250
+====iteration_69500: fit=3.5983, reg=0.5310, orth=0.1512, top1=0.3000, top5=0.5000
+====iteration_70000: fit=3.1094, reg=0.5321, orth=0.1511, top1=0.3000, top5=0.6500
+====iteration_70500: fit=4.0257, reg=0.5311, orth=0.1508, top1=0.1500, top5=0.4500
+====iteration_71000: fit=3.4011, reg=0.5311, orth=0.1510, top1=0.2000, top5=0.5750
+====iteration_71500: fit=3.5407, reg=0.5315, orth=0.1509, top1=0.3250, top5=0.5250
+====iteration_72000: fit=3.4446, reg=0.5318, orth=0.1508, top1=0.3750, top5=0.5500
+++++iteration_72000: top1=0.0730, top5=0.1949
+====iteration_72500: fit=2.9635, reg=0.5321, orth=0.1506, top1=0.4250, top5=0.6250
+====iteration_73000: fit=3.5625, reg=0.5325, orth=0.1504, top1=0.2500, top5=0.4750
+====iteration_73500: fit=3.5840, reg=0.5330, orth=0.1511, top1=0.1750, top5=0.5250
+====iteration_74000: fit=4.0329, reg=0.5345, orth=0.1509, top1=0.2500, top5=0.3250
+====iteration_74500: fit=3.5521, reg=0.5360, orth=0.1510, top1=0.3000, top5=0.5250
+====iteration_75000: fit=3.7691, reg=0.5359, orth=0.1509, top1=0.2250, top5=0.4750
+====iteration_75500: fit=3.2098, reg=0.5370, orth=0.1508, top1=0.3250, top5=0.5750
+====iteration_76000: fit=4.2376, reg=0.5378, orth=0.1506, top1=0.1000, top5=0.4000
+++++iteration_76000: top1=0.0489, top5=0.1476
+====iteration_76500: fit=3.5205, reg=0.5381, orth=0.1507, top1=0.2500, top5=0.5000
+====iteration_77000: fit=4.4124, reg=0.5383, orth=0.1502, top1=0.1750, top5=0.3000
+====iteration_77500: fit=3.7195, reg=0.5378, orth=0.1504, top1=0.3000, top5=0.4250
+====iteration_78000: fit=3.7976, reg=0.5394, orth=0.1504, top1=0.2000, top5=0.4500
+====iteration_78500: fit=4.1326, reg=0.5396, orth=0.1504, top1=0.1500, top5=0.4250
+====iteration_79000: fit=3.9677, reg=0.5404, orth=0.1503, top1=0.1750, top5=0.4250
+====iteration_79500: fit=3.7394, reg=0.5405, orth=0.1498, top1=0.3000, top5=0.4500
+====iteration_80000: fit=4.3083, reg=0.5404, orth=0.1501, top1=0.1750, top5=0.4250
+++++iteration_80000: top1=0.0454, top5=0.1251
+====iteration_80500: fit=4.0843, reg=0.5403, orth=0.1504, top1=0.2000, top5=0.4000
+====iteration_81000: fit=3.6626, reg=0.5409, orth=0.1504, top1=0.2000, top5=0.5250
+====iteration_81500: fit=3.8177, reg=0.5402, orth=0.1500, top1=0.3000, top5=0.4500
+====iteration_82000: fit=3.8713, reg=0.5401, orth=0.1500, top1=0.1250, top5=0.4500
+====iteration_82500: fit=2.9961, reg=0.5410, orth=0.1500, top1=0.4250, top5=0.6750
+====iteration_83000: fit=3.7995, reg=0.5403, orth=0.1500, top1=0.2750, top5=0.5000
+====iteration_83500: fit=3.7234, reg=0.5405, orth=0.1507, top1=0.2000, top5=0.4250
+====iteration_84000: fit=3.5888, reg=0.5411, orth=0.1504, top1=0.2250, top5=0.5500
+++++iteration_84000: top1=0.0590, top5=0.1633
+====iteration_84500: fit=3.9658, reg=0.5412, orth=0.1501, top1=0.1750, top5=0.4500
+====iteration_85000: fit=3.4565, reg=0.5417, orth=0.1502, top1=0.2750, top5=0.5250
+====iteration_85500: fit=3.5623, reg=0.5411, orth=0.1500, top1=0.3000, top5=0.4500
+====iteration_86000: fit=3.5625, reg=0.5413, orth=0.1495, top1=0.2500, top5=0.4500
+====iteration_86500: fit=3.6429, reg=0.5404, orth=0.1494, top1=0.2750, top5=0.5000
+====iteration_87000: fit=3.5995, reg=0.5403, orth=0.1496, top1=0.3250, top5=0.5000
+====iteration_87500: fit=3.2271, reg=0.5407, orth=0.1500, top1=0.2500, top5=0.6250
+====iteration_88000: fit=3.7773, reg=0.5396, orth=0.1496, top1=0.2500, top5=0.5500
+++++iteration_88000: top1=0.0687, top5=0.1801
+====iteration_88500: fit=3.4691, reg=0.5396, orth=0.1495, top1=0.1000, top5=0.5000
+====iteration_89000: fit=4.0363, reg=0.5398, orth=0.1490, top1=0.1000, top5=0.3750
+====iteration_89500: fit=3.6939, reg=0.5401, orth=0.1493, top1=0.2750, top5=0.4500
+====iteration_90000: fit=3.9030, reg=0.5400, orth=0.1491, top1=0.1500, top5=0.4250
+====iteration_90500: fit=4.0577, reg=0.5410, orth=0.1492, top1=0.1750, top5=0.4250
+====iteration_91000: fit=3.5057, reg=0.5409, orth=0.1495, top1=0.3000, top5=0.4250
+====iteration_91500: fit=3.7579, reg=0.5411, orth=0.1493, top1=0.3000, top5=0.4250
+====iteration_92000: fit=3.4709, reg=0.5408, orth=0.1491, top1=0.3750, top5=0.5750
+++++iteration_92000: top1=0.0488, top5=0.1422
+====iteration_92500: fit=3.8743, reg=0.5407, orth=0.1491, top1=0.2500, top5=0.5000
+====iteration_93000: fit=3.3332, reg=0.5401, orth=0.1488, top1=0.3500, top5=0.6500
+====iteration_93500: fit=4.3191, reg=0.5397, orth=0.1485, top1=0.2250, top5=0.3500
+====iteration_94000: fit=3.8516, reg=0.5396, orth=0.1486, top1=0.2750, top5=0.5000
+====iteration_94500: fit=2.9064, reg=0.5399, orth=0.1487, top1=0.3750, top5=0.6000
+====iteration_95000: fit=3.2636, reg=0.5400, orth=0.1487, top1=0.4000, top5=0.6000
+====iteration_95500: fit=4.2733, reg=0.5403, orth=0.1489, top1=0.2250, top5=0.3750
+====iteration_96000: fit=4.1970, reg=0.5409, orth=0.1491, top1=0.2500, top5=0.4250
+++++iteration_96000: top1=0.0532, top5=0.1434
+====iteration_96500: fit=3.9658, reg=0.5408, orth=0.1486, top1=0.1750, top5=0.3500
+====iteration_97000: fit=3.4052, reg=0.5415, orth=0.1488, top1=0.3500, top5=0.5500
+====iteration_97500: fit=3.4174, reg=0.5422, orth=0.1488, top1=0.2500, top5=0.5000
+====iteration_98000: fit=3.7864, reg=0.5430, orth=0.1488, top1=0.2250, top5=0.5000
+====iteration_98500: fit=4.4136, reg=0.5449, orth=0.1490, top1=0.1750, top5=0.3250
+====iteration_99000: fit=3.5348, reg=0.5452, orth=0.1482, top1=0.2750, top5=0.5750
+====iteration_99500: fit=3.7889, reg=0.5452, orth=0.1487, top1=0.2000, top5=0.5000
+====iteration_100000: fit=4.5931, reg=0.5452, orth=0.1485, top1=0.2000, top5=0.3000
+++++iteration_100000: top1=0.0391, top5=0.1151
+====iteration_100500: fit=3.4258, reg=0.5455, orth=0.1484, top1=0.3500, top5=0.5250
+====iteration_101000: fit=3.9774, reg=0.5454, orth=0.1482, top1=0.1750, top5=0.4000
+====iteration_101500: fit=4.3918, reg=0.5460, orth=0.1481, top1=0.1500, top5=0.4000
+====iteration_102000: fit=4.2045, reg=0.5466, orth=0.1485, top1=0.2250, top5=0.4250
+====iteration_102500: fit=3.3131, reg=0.5465, orth=0.1484, top1=0.3750, top5=0.5250
+====iteration_103000: fit=3.6815, reg=0.5463, orth=0.1485, top1=0.2750, top5=0.5000
+====iteration_103500: fit=3.9355, reg=0.5463, orth=0.1481, top1=0.1500, top5=0.5000
+====iteration_104000: fit=4.3207, reg=0.5459, orth=0.1483, top1=0.1000, top5=0.3750
+++++iteration_104000: top1=0.0567, top5=0.1509
+====iteration_104500: fit=3.1645, reg=0.5465, orth=0.1483, top1=0.3500, top5=0.5750
+====iteration_105000: fit=3.5051, reg=0.5468, orth=0.1484, top1=0.2250, top5=0.5500
+====iteration_105500: fit=4.1231, reg=0.5473, orth=0.1481, top1=0.2500, top5=0.5000
+====iteration_106000: fit=4.1926, reg=0.5465, orth=0.1478, top1=0.2000, top5=0.4500
+====iteration_106500: fit=3.7759, reg=0.5471, orth=0.1481, top1=0.1750, top5=0.4500
+====iteration_107000: fit=4.2490, reg=0.5468, orth=0.1481, top1=0.2250, top5=0.4250
+====iteration_107500: fit=4.0457, reg=0.5469, orth=0.1488, top1=0.1750, top5=0.4250
+====iteration_108000: fit=3.6656, reg=0.5466, orth=0.1485, top1=0.2000, top5=0.4250
+++++iteration_108000: top1=0.0542, top5=0.1527
+====iteration_108500: fit=3.5986, reg=0.5463, orth=0.1485, top1=0.2000, top5=0.5250
+====iteration_109000: fit=3.3210, reg=0.5465, orth=0.1480, top1=0.4000, top5=0.4750
+====iteration_109500: fit=4.2404, reg=0.5465, orth=0.1481, top1=0.2250, top5=0.4000
+====iteration_110000: fit=3.8780, reg=0.5464, orth=0.1481, top1=0.3250, top5=0.4750
+====iteration_110500: fit=3.7520, reg=0.5467, orth=0.1483, top1=0.2000, top5=0.3250
+====iteration_111000: fit=3.4211, reg=0.5467, orth=0.1481, top1=0.3000, top5=0.4500
+====iteration_111500: fit=3.7920, reg=0.5463, orth=0.1478, top1=0.2000, top5=0.4750
+====iteration_112000: fit=3.5213, reg=0.5467, orth=0.1479, top1=0.2000, top5=0.4250
+++++iteration_112000: top1=0.0766, top5=0.1984
+====iteration_112500: fit=3.8009, reg=0.5469, orth=0.1478, top1=0.2500, top5=0.4250
+====iteration_113000: fit=3.6009, reg=0.5464, orth=0.1478, top1=0.2000, top5=0.4750
+====iteration_113500: fit=3.5102, reg=0.5460, orth=0.1479, top1=0.2250, top5=0.5000
+====iteration_114000: fit=4.0556, reg=0.5465, orth=0.1475, top1=0.1250, top5=0.3750
+====iteration_114500: fit=3.4168, reg=0.5463, orth=0.1475, top1=0.2250, top5=0.5000
+====iteration_115000: fit=4.0827, reg=0.5467, orth=0.1475, top1=0.2000, top5=0.4500
+====iteration_115500: fit=3.7933, reg=0.5463, orth=0.1475, top1=0.1000, top5=0.5500
+====iteration_116000: fit=4.1729, reg=0.5460, orth=0.1474, top1=0.1750, top5=0.3250
+++++iteration_116000: top1=0.0740, top5=0.2003
+====iteration_116500: fit=3.4955, reg=0.5466, orth=0.1476, top1=0.1500, top5=0.5250
+====iteration_117000: fit=3.6623, reg=0.5454, orth=0.1476, top1=0.2500, top5=0.4500
+====iteration_117500: fit=3.6523, reg=0.5464, orth=0.1472, top1=0.2750, top5=0.5500
+====iteration_118000: fit=3.6481, reg=0.5467, orth=0.1473, top1=0.3250, top5=0.5250
+====iteration_118500: fit=3.9146, reg=0.5473, orth=0.1474, top1=0.1750, top5=0.4500
+====iteration_119000: fit=3.3386, reg=0.5475, orth=0.1477, top1=0.3250, top5=0.5250
+====iteration_119500: fit=3.2427, reg=0.5471, orth=0.1474, top1=0.3500, top5=0.5500
+====iteration_120000: fit=3.3687, reg=0.5479, orth=0.1475, top1=0.2750, top5=0.5750
+++++iteration_120000: top1=0.0693, top5=0.1837
+====iteration_120500: fit=3.6389, reg=0.5477, orth=0.1475, top1=0.2000, top5=0.5000
+====iteration_121000: fit=3.9259, reg=0.5480, orth=0.1476, top1=0.1250, top5=0.3500
+====iteration_121500: fit=3.5785, reg=0.5483, orth=0.1477, top1=0.2500, top5=0.5750
+====iteration_122000: fit=3.6415, reg=0.5479, orth=0.1474, top1=0.2500, top5=0.6250
+====iteration_122500: fit=3.9959, reg=0.5478, orth=0.1472, top1=0.2000, top5=0.4250
+====iteration_123000: fit=4.1623, reg=0.5487, orth=0.1478, top1=0.2250, top5=0.3500
+====iteration_123500: fit=3.9059, reg=0.5485, orth=0.1470, top1=0.1500, top5=0.5000
+====iteration_124000: fit=3.7825, reg=0.5492, orth=0.1472, top1=0.2000, top5=0.4000
+++++iteration_124000: top1=0.0441, top5=0.1227
+====iteration_124500: fit=4.0366, reg=0.5502, orth=0.1474, top1=0.2750, top5=0.4250
+====iteration_125000: fit=4.1901, reg=0.5510, orth=0.1472, top1=0.1750, top5=0.4000
+====iteration_125500: fit=2.9314, reg=0.5515, orth=0.1474, top1=0.3500, top5=0.6250
+====iteration_126000: fit=4.2946, reg=0.5512, orth=0.1471, top1=0.1750, top5=0.3750
+====iteration_126500: fit=3.5129, reg=0.5511, orth=0.1470, top1=0.2250, top5=0.5250
+====iteration_127000: fit=3.6317, reg=0.5512, orth=0.1467, top1=0.2750, top5=0.5250
+====iteration_127500: fit=3.7422, reg=0.5520, orth=0.1466, top1=0.3000, top5=0.5250
+====iteration_128000: fit=3.5544, reg=0.5529, orth=0.1466, top1=0.3000, top5=0.5500
+++++iteration_128000: top1=0.0605, top5=0.1866
+====iteration_128500: fit=3.6856, reg=0.5532, orth=0.1470, top1=0.1750, top5=0.4750
+====iteration_129000: fit=4.2024, reg=0.5524, orth=0.1465, top1=0.1500, top5=0.3750
+====iteration_129500: fit=4.5256, reg=0.5523, orth=0.1466, top1=0.1250, top5=0.3000
+====iteration_130000: fit=3.7512, reg=0.5522, orth=0.1465, top1=0.3250, top5=0.5000
+====iteration_130500: fit=3.1356, reg=0.5527, orth=0.1472, top1=0.3500, top5=0.5500
+====iteration_131000: fit=3.9009, reg=0.5525, orth=0.1472, top1=0.1750, top5=0.4000
+====iteration_131500: fit=3.3323, reg=0.5523, orth=0.1470, top1=0.3750, top5=0.5500
+====iteration_132000: fit=4.3597, reg=0.5521, orth=0.1470, top1=0.1750, top5=0.3250
+++++iteration_132000: top1=0.0733, top5=0.1940
+====iteration_132500: fit=3.1143, reg=0.5514, orth=0.1463, top1=0.2250, top5=0.5750
+====iteration_133000: fit=3.9716, reg=0.5521, orth=0.1465, top1=0.1500, top5=0.4750
+====iteration_133500: fit=3.1597, reg=0.5521, orth=0.1461, top1=0.3500, top5=0.5250
+====iteration_134000: fit=2.8429, reg=0.5517, orth=0.1462, top1=0.3500, top5=0.6750
+====iteration_134500: fit=3.8356, reg=0.5515, orth=0.1465, top1=0.2250, top5=0.4000
+====iteration_135000: fit=3.2645, reg=0.5514, orth=0.1461, top1=0.3750, top5=0.6500
+====iteration_135500: fit=3.7594, reg=0.5514, orth=0.1461, top1=0.2250, top5=0.4000
+====iteration_136000: fit=3.7421, reg=0.5518, orth=0.1466, top1=0.2250, top5=0.4250
+++++iteration_136000: top1=0.0446, top5=0.1403
+====iteration_136500: fit=4.1397, reg=0.5521, orth=0.1469, top1=0.0750, top5=0.4500
+====iteration_137000: fit=4.1997, reg=0.5513, orth=0.1465, top1=0.1750, top5=0.3250
+====iteration_137500: fit=3.9665, reg=0.5521, orth=0.1467, top1=0.2500, top5=0.4000
+====iteration_138000: fit=3.1876, reg=0.5515, orth=0.1462, top1=0.3000, top5=0.6250
+====iteration_138500: fit=3.3349, reg=0.5510, orth=0.1462, top1=0.3500, top5=0.6000
+====iteration_139000: fit=3.5635, reg=0.5512, orth=0.1461, top1=0.2750, top5=0.5500
+====iteration_139500: fit=3.4098, reg=0.5512, orth=0.1460, top1=0.3250, top5=0.4750
+====iteration_140000: fit=3.6577, reg=0.5509, orth=0.1464, top1=0.2750, top5=0.4500
+++++iteration_140000: top1=0.0676, top5=0.1969
+====iteration_140500: fit=3.7818, reg=0.5508, orth=0.1463, top1=0.2250, top5=0.4750
+====iteration_141000: fit=3.8155, reg=0.5516, orth=0.1466, top1=0.2250, top5=0.5000
+====iteration_141500: fit=3.3330, reg=0.5509, orth=0.1462, top1=0.3250, top5=0.5500
+====iteration_142000: fit=4.0204, reg=0.5519, orth=0.1458, top1=0.1750, top5=0.4500
+====iteration_142500: fit=3.6328, reg=0.5517, orth=0.1459, top1=0.3000, top5=0.4500
+====iteration_143000: fit=3.7039, reg=0.5507, orth=0.1459, top1=0.2500, top5=0.5000
+====iteration_143500: fit=4.2555, reg=0.5508, orth=0.1458, top1=0.1750, top5=0.4000
+====iteration_144000: fit=3.9310, reg=0.5511, orth=0.1460, top1=0.2000, top5=0.4500
+++++iteration_144000: top1=0.0450, top5=0.1380
+====iteration_144500: fit=3.9546, reg=0.5514, orth=0.1464, top1=0.2250, top5=0.3500
+====iteration_145000: fit=3.4169, reg=0.5506, orth=0.1459, top1=0.2250, top5=0.5250
+====iteration_145500: fit=4.2108, reg=0.5516, orth=0.1466, top1=0.1750, top5=0.3000
+====iteration_146000: fit=3.6570, reg=0.5511, orth=0.1462, top1=0.3000, top5=0.5250
+====iteration_146500: fit=3.7482, reg=0.5515, orth=0.1464, top1=0.2500, top5=0.5000
+====iteration_147000: fit=3.5026, reg=0.5520, orth=0.1466, top1=0.2750, top5=0.4500
+====iteration_147500: fit=3.4659, reg=0.5527, orth=0.1465, top1=0.2750, top5=0.5750
+====iteration_148000: fit=3.7040, reg=0.5527, orth=0.1463, top1=0.2500, top5=0.5500
+++++iteration_148000: top1=0.0420, top5=0.1228
+====iteration_148500: fit=3.1845, reg=0.5537, orth=0.1466, top1=0.2250, top5=0.5500
+====iteration_149000: fit=3.4853, reg=0.5539, orth=0.1464, top1=0.2250, top5=0.5250
+====iteration_149500: fit=3.4095, reg=0.5535, orth=0.1456, top1=0.2750, top5=0.5500
+====iteration_150000: fit=3.6602, reg=0.5534, orth=0.1460, top1=0.3500, top5=0.5000
+====iteration_150500: fit=3.5322, reg=0.5540, orth=0.1457, top1=0.3500, top5=0.5000
+====iteration_151000: fit=3.8203, reg=0.5547, orth=0.1458, top1=0.2500, top5=0.4500
+====iteration_151500: fit=3.5012, reg=0.5548, orth=0.1458, top1=0.3000, top5=0.4750
+====iteration_152000: fit=3.9169, reg=0.5550, orth=0.1457, top1=0.2250, top5=0.5250
+++++iteration_152000: top1=0.0856, top5=0.2236
+====iteration_152500: fit=3.0127, reg=0.5548, orth=0.1461, top1=0.4000, top5=0.6750
+====iteration_153000: fit=3.6925, reg=0.5558, orth=0.1462, top1=0.2000, top5=0.4500
+====iteration_153500: fit=2.8364, reg=0.5553, orth=0.1459, top1=0.3750, top5=0.6250
+====iteration_154000: fit=4.0372, reg=0.5550, orth=0.1461, top1=0.2250, top5=0.5250
+====iteration_154500: fit=3.3228, reg=0.5552, orth=0.1460, top1=0.3250, top5=0.5750
+====iteration_155000: fit=2.9126, reg=0.5550, orth=0.1460, top1=0.4250, top5=0.6750
+====iteration_155500: fit=4.0633, reg=0.5546, orth=0.1463, top1=0.1500, top5=0.4500
+====iteration_156000: fit=3.7178, reg=0.5546, orth=0.1463, top1=0.2750, top5=0.5250
+++++iteration_156000: top1=0.0703, top5=0.1890
+====iteration_156500: fit=3.2176, reg=0.5555, orth=0.1460, top1=0.3250, top5=0.5750
+====iteration_157000: fit=3.6795, reg=0.5548, orth=0.1458, top1=0.2750, top5=0.5000
+====iteration_157500: fit=3.9602, reg=0.5544, orth=0.1462, top1=0.2500, top5=0.4500
+====iteration_158000: fit=3.4934, reg=0.5548, orth=0.1462, top1=0.3750, top5=0.5750
+====iteration_158500: fit=3.8916, reg=0.5545, orth=0.1461, top1=0.2750, top5=0.4250
+====iteration_159000: fit=4.7343, reg=0.5537, orth=0.1455, top1=0.0750, top5=0.2500
+====iteration_159500: fit=3.5170, reg=0.5536, orth=0.1454, top1=0.3250, top5=0.5000
+====iteration_160000: fit=3.7948, reg=0.5545, orth=0.1453, top1=0.2500, top5=0.5000
+++++iteration_160000: top1=0.0583, top5=0.1495
+====iteration_160500: fit=3.2232, reg=0.5544, orth=0.1456, top1=0.2750, top5=0.5250
+====iteration_161000: fit=3.8927, reg=0.5540, orth=0.1459, top1=0.2250, top5=0.5250
+====iteration_161500: fit=3.4834, reg=0.5536, orth=0.1455, top1=0.2000, top5=0.5250
+====iteration_162000: fit=3.6759, reg=0.5546, orth=0.1455, top1=0.2750, top5=0.5000
+====iteration_162500: fit=3.4933, reg=0.5540, orth=0.1459, top1=0.2250, top5=0.5250
+====iteration_163000: fit=4.0055, reg=0.5537, orth=0.1452, top1=0.2000, top5=0.3750
+====iteration_163500: fit=4.2011, reg=0.5542, orth=0.1455, top1=0.2250, top5=0.3500
+====iteration_164000: fit=3.6069, reg=0.5537, orth=0.1455, top1=0.2500, top5=0.5500
+++++iteration_164000: top1=0.0568, top5=0.1585
+====iteration_164500: fit=3.6255, reg=0.5546, orth=0.1460, top1=0.3000, top5=0.5250
+====iteration_165000: fit=3.8847, reg=0.5549, orth=0.1459, top1=0.2250, top5=0.4750
+====iteration_165500: fit=2.8807, reg=0.5550, orth=0.1452, top1=0.3500, top5=0.6750
+====iteration_166000: fit=3.8146, reg=0.5552, orth=0.1452, top1=0.2750, top5=0.5250
+====iteration_166500: fit=3.6573, reg=0.5547, orth=0.1447, top1=0.2000, top5=0.5000
+====iteration_167000: fit=3.1916, reg=0.5541, orth=0.1454, top1=0.3000, top5=0.6000
+====iteration_167500: fit=3.2496, reg=0.5552, orth=0.1456, top1=0.2750, top5=0.5500
+====iteration_168000: fit=3.7107, reg=0.5551, orth=0.1454, top1=0.3250, top5=0.5000
+++++iteration_168000: top1=0.0796, top5=0.2068
+====iteration_168500: fit=3.6136, reg=0.5547, orth=0.1455, top1=0.2500, top5=0.5250
+====iteration_169000: fit=3.5744, reg=0.5547, orth=0.1457, top1=0.2750, top5=0.5000
+====iteration_169500: fit=3.6264, reg=0.5546, orth=0.1459, top1=0.2500, top5=0.5000
+====iteration_170000: fit=4.0980, reg=0.5541, orth=0.1458, top1=0.1500, top5=0.4250
+====iteration_170500: fit=3.3383, reg=0.5538, orth=0.1457, top1=0.2250, top5=0.5500
+====iteration_171000: fit=3.4867, reg=0.5527, orth=0.1451, top1=0.2000, top5=0.5000
+====iteration_171500: fit=3.7819, reg=0.5531, orth=0.1453, top1=0.2500, top5=0.5250
+====iteration_172000: fit=3.4037, reg=0.5538, orth=0.1453, top1=0.3750, top5=0.5750
+++++iteration_172000: top1=0.0536, top5=0.1520
+====iteration_172500: fit=3.2745, reg=0.5558, orth=0.1455, top1=0.2750, top5=0.5500
+====iteration_173000: fit=3.2839, reg=0.5567, orth=0.1457, top1=0.3750, top5=0.5250
+====iteration_173500: fit=4.1809, reg=0.5565, orth=0.1458, top1=0.2000, top5=0.4750
+====iteration_174000: fit=4.0368, reg=0.5577, orth=0.1460, top1=0.1500, top5=0.4000
+====iteration_174500: fit=3.0482, reg=0.5575, orth=0.1458, top1=0.2500, top5=0.6250
+====iteration_175000: fit=3.4458, reg=0.5571, orth=0.1458, top1=0.3000, top5=0.5250
+====iteration_175500: fit=2.9946, reg=0.5578, orth=0.1456, top1=0.3250, top5=0.6250
+====iteration_176000: fit=3.8596, reg=0.5573, orth=0.1455, top1=0.2250, top5=0.3500
+++++iteration_176000: top1=0.0408, top5=0.1424
+====iteration_176500: fit=3.5316, reg=0.5576, orth=0.1459, top1=0.2500, top5=0.5250
+====iteration_177000: fit=3.8303, reg=0.5581, orth=0.1459, top1=0.2250, top5=0.4250
+====iteration_177500: fit=3.7740, reg=0.5578, orth=0.1457, top1=0.2000, top5=0.4750
+====iteration_178000: fit=3.6408, reg=0.5591, orth=0.1458, top1=0.2250, top5=0.4750
+====iteration_178500: fit=3.8752, reg=0.5585, orth=0.1457, top1=0.3000, top5=0.5500
+====iteration_179000: fit=3.5573, reg=0.5587, orth=0.1458, top1=0.1750, top5=0.5500
+====iteration_179500: fit=3.8846, reg=0.5581, orth=0.1450, top1=0.3000, top5=0.4750
+====iteration_180000: fit=3.1946, reg=0.5580, orth=0.1452, top1=0.2250, top5=0.6250
+++++iteration_180000: top1=0.0319, top5=0.1055
+====iteration_180500: fit=4.2352, reg=0.5572, orth=0.1452, top1=0.2500, top5=0.3250
+====iteration_181000: fit=4.3168, reg=0.5571, orth=0.1450, top1=0.2500, top5=0.4000
+====iteration_181500: fit=3.1118, reg=0.5567, orth=0.1451, top1=0.2500, top5=0.6000
+====iteration_182000: fit=3.3932, reg=0.5567, orth=0.1447, top1=0.3500, top5=0.5250
+====iteration_182500: fit=3.4133, reg=0.5570, orth=0.1452, top1=0.1750, top5=0.4500
+====iteration_183000: fit=4.1331, reg=0.5570, orth=0.1452, top1=0.1250, top5=0.4250
+====iteration_183500: fit=3.6174, reg=0.5570, orth=0.1450, top1=0.3250, top5=0.4500
+====iteration_184000: fit=4.0482, reg=0.5566, orth=0.1447, top1=0.2000, top5=0.4250
+++++iteration_184000: top1=0.0763, top5=0.1972
+====iteration_184500: fit=3.6806, reg=0.5563, orth=0.1443, top1=0.2750, top5=0.5250
+====iteration_185000: fit=4.3160, reg=0.5575, orth=0.1449, top1=0.1250, top5=0.4500
+====iteration_185500: fit=3.7149, reg=0.5568, orth=0.1448, top1=0.2250, top5=0.4500
+====iteration_186000: fit=3.9034, reg=0.5572, orth=0.1442, top1=0.3000, top5=0.4500
+====iteration_186500: fit=3.3987, reg=0.5572, orth=0.1448, top1=0.2250, top5=0.5750
+====iteration_187000: fit=3.4929, reg=0.5568, orth=0.1446, top1=0.2500, top5=0.5000
+====iteration_187500: fit=3.0238, reg=0.5575, orth=0.1453, top1=0.3000, top5=0.7000
+====iteration_188000: fit=3.4608, reg=0.5571, orth=0.1449, top1=0.3000, top5=0.5250
+++++iteration_188000: top1=0.0642, top5=0.1694
+====iteration_188500: fit=3.1128, reg=0.5566, orth=0.1444, top1=0.2500, top5=0.6000
+====iteration_189000: fit=4.0436, reg=0.5577, orth=0.1448, top1=0.2250, top5=0.5000
+====iteration_189500: fit=3.6245, reg=0.5570, orth=0.1448, top1=0.2250, top5=0.5250
+====iteration_190000: fit=3.3376, reg=0.5563, orth=0.1448, top1=0.2500, top5=0.5000
+====iteration_190500: fit=3.6192, reg=0.5566, orth=0.1448, top1=0.2000, top5=0.5000
+====iteration_191000: fit=4.1762, reg=0.5566, orth=0.1449, top1=0.2250, top5=0.4500
+====iteration_191500: fit=3.5615, reg=0.5565, orth=0.1450, top1=0.3750, top5=0.5750
+====iteration_192000: fit=4.5126, reg=0.5569, orth=0.1451, top1=0.1500, top5=0.4000
+++++iteration_192000: top1=0.0600, top5=0.1634
+====iteration_192500: fit=3.2890, reg=0.5558, orth=0.1444, top1=0.3000, top5=0.6000
+====iteration_193000: fit=3.0158, reg=0.5561, orth=0.1444, top1=0.3250, top5=0.6750
+====iteration_193500: fit=3.8181, reg=0.5576, orth=0.1449, top1=0.3000, top5=0.4000
+====iteration_194000: fit=3.5621, reg=0.5560, orth=0.1447, top1=0.2750, top5=0.4500
+====iteration_194500: fit=3.9474, reg=0.5568, orth=0.1451, top1=0.2500, top5=0.4000
+====iteration_195000: fit=3.6419, reg=0.5568, orth=0.1447, top1=0.3250, top5=0.5000
+====iteration_195500: fit=3.9794, reg=0.5573, orth=0.1444, top1=0.1750, top5=0.4500
+====iteration_196000: fit=3.8716, reg=0.5574, orth=0.1440, top1=0.1750, top5=0.4500
+++++iteration_196000: top1=0.0894, top5=0.2363
+====iteration_196500: fit=4.0156, reg=0.5583, orth=0.1444, top1=0.1750, top5=0.5000
+====iteration_197000: fit=3.5655, reg=0.5595, orth=0.1448, top1=0.3500, top5=0.5750
+====iteration_197500: fit=4.0426, reg=0.5602, orth=0.1447, top1=0.2250, top5=0.4500
+====iteration_198000: fit=3.3136, reg=0.5608, orth=0.1451, top1=0.3750, top5=0.6000
+====iteration_198500: fit=3.5785, reg=0.5600, orth=0.1452, top1=0.1250, top5=0.5250
+====iteration_199000: fit=4.3224, reg=0.5601, orth=0.1452, top1=0.1500, top5=0.3000
+====iteration_199500: fit=4.1604, reg=0.5596, orth=0.1449, top1=0.1500, top5=0.3250
+====iteration_200000: fit=3.6337, reg=0.5595, orth=0.1452, top1=0.2000, top5=0.4250
+++++iteration_200000: top1=0.0935, top5=0.2379
+====iteration_200500: fit=3.2708, reg=0.5571, orth=0.1433, top1=0.3250, top5=0.5500
+====iteration_201000: fit=2.6252, reg=0.5545, orth=0.1415, top1=0.4750, top5=0.6500
+====iteration_201500: fit=2.8946, reg=0.5519, orth=0.1398, top1=0.3500, top5=0.6000
+====iteration_202000: fit=2.3214, reg=0.5492, orth=0.1382, top1=0.4750, top5=0.7250
+====iteration_202500: fit=2.5006, reg=0.5465, orth=0.1366, top1=0.4750, top5=0.6500
+====iteration_203000: fit=3.0300, reg=0.5439, orth=0.1351, top1=0.3250, top5=0.6000
+====iteration_203500: fit=2.9275, reg=0.5413, orth=0.1337, top1=0.3000, top5=0.6000
+====iteration_204000: fit=2.6901, reg=0.5388, orth=0.1324, top1=0.4250, top5=0.7000
+++++iteration_204000: top1=0.3954, top5=0.6564
+====iteration_204500: fit=2.5842, reg=0.5361, orth=0.1311, top1=0.4750, top5=0.6750
+====iteration_205000: fit=2.2855, reg=0.5335, orth=0.1299, top1=0.4750, top5=0.8000
+====iteration_205500: fit=2.9590, reg=0.5311, orth=0.1287, top1=0.3250, top5=0.7000
+====iteration_206000: fit=2.5818, reg=0.5285, orth=0.1276, top1=0.5000, top5=0.7250
+====iteration_206500: fit=2.3283, reg=0.5260, orth=0.1265, top1=0.5250, top5=0.7500
+====iteration_207000: fit=2.1144, reg=0.5235, orth=0.1254, top1=0.5000, top5=0.8000
+====iteration_207500: fit=2.8270, reg=0.5210, orth=0.1243, top1=0.3750, top5=0.6500
+====iteration_208000: fit=2.3254, reg=0.5187, orth=0.1234, top1=0.4750, top5=0.7000
+++++iteration_208000: top1=0.4299, top5=0.6902
+====iteration_208500: fit=2.2305, reg=0.5163, orth=0.1224, top1=0.5500, top5=0.6750
+====iteration_209000: fit=2.5808, reg=0.5140, orth=0.1214, top1=0.4500, top5=0.7500
+====iteration_209500: fit=3.1035, reg=0.5116, orth=0.1205, top1=0.4000, top5=0.5250
+====iteration_210000: fit=1.9143, reg=0.5093, orth=0.1195, top1=0.4750, top5=0.8250
+====iteration_210500: fit=2.1955, reg=0.5070, orth=0.1187, top1=0.5500, top5=0.7750
+====iteration_211000: fit=2.0671, reg=0.5049, orth=0.1178, top1=0.5500, top5=0.7000
+====iteration_211500: fit=2.5773, reg=0.5028, orth=0.1170, top1=0.4000, top5=0.7000
+====iteration_212000: fit=2.6108, reg=0.5005, orth=0.1162, top1=0.4750, top5=0.6250
+++++iteration_212000: top1=0.4404, top5=0.7004
+====iteration_212500: fit=1.9913, reg=0.4984, orth=0.1155, top1=0.4750, top5=0.8500
+====iteration_213000: fit=2.2785, reg=0.4963, orth=0.1147, top1=0.4500, top5=0.8250
+====iteration_213500: fit=2.7188, reg=0.4943, orth=0.1141, top1=0.4750, top5=0.6500
+====iteration_214000: fit=2.3772, reg=0.4923, orth=0.1134, top1=0.5250, top5=0.6500
+====iteration_214500: fit=1.8292, reg=0.4903, orth=0.1127, top1=0.6250, top5=0.8500
+====iteration_215000: fit=2.0125, reg=0.4883, orth=0.1121, top1=0.5000, top5=0.8000
+====iteration_215500: fit=1.8511, reg=0.4863, orth=0.1113, top1=0.6000, top5=0.8250
+====iteration_216000: fit=2.2347, reg=0.4843, orth=0.1107, top1=0.5000, top5=0.7000
+++++iteration_216000: top1=0.4447, top5=0.7024
+====iteration_216500: fit=3.0204, reg=0.4824, orth=0.1101, top1=0.3500, top5=0.6250
+====iteration_217000: fit=2.0338, reg=0.4805, orth=0.1096, top1=0.4750, top5=0.8000
+====iteration_217500: fit=2.2583, reg=0.4786, orth=0.1090, top1=0.5000, top5=0.7750
+====iteration_218000: fit=2.3972, reg=0.4768, orth=0.1085, top1=0.4500, top5=0.7500
+====iteration_218500: fit=2.4273, reg=0.4749, orth=0.1079, top1=0.4750, top5=0.6750
+====iteration_219000: fit=2.0944, reg=0.4731, orth=0.1073, top1=0.5750, top5=0.7500
+====iteration_219500: fit=2.4861, reg=0.4712, orth=0.1068, top1=0.3500, top5=0.6750
+====iteration_220000: fit=2.9198, reg=0.4695, orth=0.1064, top1=0.4250, top5=0.7000
+++++iteration_220000: top1=0.4466, top5=0.7074
+====iteration_220500: fit=1.9555, reg=0.4683, orth=0.1058, top1=0.7000, top5=0.8000
+====iteration_221000: fit=2.0933, reg=0.4669, orth=0.1053, top1=0.5750, top5=0.8250
+====iteration_221500: fit=1.8316, reg=0.4656, orth=0.1047, top1=0.5750, top5=0.7750
+====iteration_222000: fit=1.8828, reg=0.4644, orth=0.1043, top1=0.6250, top5=0.7750
+====iteration_222500: fit=1.6980, reg=0.4630, orth=0.1037, top1=0.6250, top5=0.8500
+====iteration_223000: fit=2.0776, reg=0.4614, orth=0.1033, top1=0.5250, top5=0.8000
+====iteration_223500: fit=1.7331, reg=0.4600, orth=0.1029, top1=0.5000, top5=0.8250
+====iteration_224000: fit=1.5771, reg=0.4587, orth=0.1024, top1=0.5750, top5=0.8250
+++++iteration_224000: top1=0.4518, top5=0.7119
+====iteration_224500: fit=2.8568, reg=0.4573, orth=0.1020, top1=0.4250, top5=0.7500
+====iteration_225000: fit=2.1000, reg=0.4559, orth=0.1016, top1=0.5500, top5=0.8250
+====iteration_225500: fit=1.9342, reg=0.4546, orth=0.1012, top1=0.5750, top5=0.8500
+====iteration_226000: fit=1.8970, reg=0.4533, orth=0.1009, top1=0.5000, top5=0.8500
+====iteration_226500: fit=1.9944, reg=0.4519, orth=0.1005, top1=0.5000, top5=0.8500
+====iteration_227000: fit=1.7288, reg=0.4506, orth=0.1001, top1=0.6000, top5=0.7750
+====iteration_227500: fit=1.9531, reg=0.4494, orth=0.0997, top1=0.4750, top5=0.8000
+====iteration_228000: fit=1.9086, reg=0.4481, orth=0.0994, top1=0.5000, top5=0.8000
+++++iteration_228000: top1=0.4274, top5=0.6921
+====iteration_228500: fit=2.7260, reg=0.4468, orth=0.0991, top1=0.4250, top5=0.7250
+====iteration_229000: fit=2.0522, reg=0.4455, orth=0.0987, top1=0.6000, top5=0.8250
+====iteration_229500: fit=1.9973, reg=0.4442, orth=0.0983, top1=0.5500, top5=0.7750
+====iteration_230000: fit=2.2773, reg=0.4431, orth=0.0980, top1=0.5500, top5=0.7250
+====iteration_230500: fit=2.4017, reg=0.4418, orth=0.0977, top1=0.5500, top5=0.6250
+====iteration_231000: fit=1.9294, reg=0.4404, orth=0.0973, top1=0.5750, top5=0.7750
+====iteration_231500: fit=1.7364, reg=0.4391, orth=0.0970, top1=0.6000, top5=0.8250
+====iteration_232000: fit=1.4894, reg=0.4380, orth=0.0968, top1=0.6500, top5=0.8500
+++++iteration_232000: top1=0.4014, top5=0.6647
+====iteration_232500: fit=2.0587, reg=0.4367, orth=0.0965, top1=0.5750, top5=0.7750
+====iteration_233000: fit=2.0600, reg=0.4354, orth=0.0961, top1=0.4750, top5=0.7500
+====iteration_233500: fit=2.3441, reg=0.4342, orth=0.0958, top1=0.5250, top5=0.7000
+====iteration_234000: fit=2.0852, reg=0.4331, orth=0.0955, top1=0.4500, top5=0.8250
+====iteration_234500: fit=2.0139, reg=0.4318, orth=0.0952, top1=0.5250, top5=0.7750
+====iteration_235000: fit=2.1814, reg=0.4307, orth=0.0949, top1=0.5250, top5=0.7500
+====iteration_235500: fit=2.3115, reg=0.4296, orth=0.0948, top1=0.5000, top5=0.7750
+====iteration_236000: fit=2.4776, reg=0.4283, orth=0.0946, top1=0.4500, top5=0.6250
+++++iteration_236000: top1=0.4348, top5=0.6929
+====iteration_236500: fit=1.8032, reg=0.4272, orth=0.0943, top1=0.7000, top5=0.8000
+====iteration_237000: fit=2.1338, reg=0.4261, orth=0.0941, top1=0.5250, top5=0.8250
+====iteration_237500: fit=2.7697, reg=0.4250, orth=0.0938, top1=0.3750, top5=0.7000
+====iteration_238000: fit=2.3352, reg=0.4239, orth=0.0936, top1=0.4500, top5=0.6500
+====iteration_238500: fit=2.2232, reg=0.4228, orth=0.0933, top1=0.3250, top5=0.8000
+====iteration_239000: fit=2.1635, reg=0.4218, orth=0.0930, top1=0.5000, top5=0.7250
+====iteration_239500: fit=2.0817, reg=0.4206, orth=0.0928, top1=0.5000, top5=0.7500
+====iteration_240000: fit=1.5607, reg=0.4196, orth=0.0926, top1=0.6500, top5=0.8500
+++++iteration_240000: top1=0.4171, top5=0.6848
+====iteration_240500: fit=1.7789, reg=0.4187, orth=0.0924, top1=0.5000, top5=0.8500
+====iteration_241000: fit=2.0264, reg=0.4176, orth=0.0921, top1=0.6000, top5=0.7750
+====iteration_241500: fit=1.9891, reg=0.4167, orth=0.0920, top1=0.5500, top5=0.8000
+====iteration_242000: fit=2.0605, reg=0.4156, orth=0.0918, top1=0.5750, top5=0.7750
+====iteration_242500: fit=2.5367, reg=0.4147, orth=0.0916, top1=0.5250, top5=0.7250
+====iteration_243000: fit=2.2127, reg=0.4137, orth=0.0914, top1=0.4500, top5=0.8000
+====iteration_243500: fit=2.1292, reg=0.4128, orth=0.0912, top1=0.5000, top5=0.7750
+====iteration_244000: fit=1.7086, reg=0.4119, orth=0.0909, top1=0.5500, top5=0.8250
+++++iteration_244000: top1=0.4473, top5=0.7045
+====iteration_244500: fit=1.7428, reg=0.4114, orth=0.0907, top1=0.6750, top5=0.8250
+====iteration_245000: fit=1.9551, reg=0.4110, orth=0.0905, top1=0.5750, top5=0.8000
+====iteration_245500: fit=1.8855, reg=0.4104, orth=0.0902, top1=0.5000, top5=0.7750
+====iteration_246000: fit=1.8956, reg=0.4098, orth=0.0901, top1=0.5250, top5=0.8750
+====iteration_246500: fit=2.2917, reg=0.4093, orth=0.0899, top1=0.5250, top5=0.7250
+====iteration_247000: fit=1.8408, reg=0.4087, orth=0.0897, top1=0.5500, top5=0.8500
+====iteration_247500: fit=1.5400, reg=0.4080, orth=0.0895, top1=0.6750, top5=0.8000
+====iteration_248000: fit=1.2831, reg=0.4074, orth=0.0893, top1=0.6750, top5=0.9250
+++++iteration_248000: top1=0.4291, top5=0.6924
+====iteration_248500: fit=1.8840, reg=0.4068, orth=0.0892, top1=0.6500, top5=0.8000
+====iteration_249000: fit=1.6262, reg=0.4062, orth=0.0890, top1=0.7000, top5=0.8500
+====iteration_249500: fit=1.9646, reg=0.4056, orth=0.0889, top1=0.4500, top5=0.8000
+====iteration_250000: fit=1.7769, reg=0.4050, orth=0.0887, top1=0.6750, top5=0.7750
+====iteration_250500: fit=2.1615, reg=0.4044, orth=0.0885, top1=0.6000, top5=0.8000
+====iteration_251000: fit=1.9137, reg=0.4038, orth=0.0883, top1=0.6500, top5=0.7750
+====iteration_251500: fit=2.0608, reg=0.4032, orth=0.0882, top1=0.5250, top5=0.7000
+====iteration_252000: fit=2.0953, reg=0.4027, orth=0.0880, top1=0.4500, top5=0.7500
+++++iteration_252000: top1=0.4532, top5=0.7124
+====iteration_252500: fit=2.1832, reg=0.4020, orth=0.0879, top1=0.5000, top5=0.7250
+====iteration_253000: fit=2.1763, reg=0.4014, orth=0.0878, top1=0.5750, top5=0.7750
+====iteration_253500: fit=1.9975, reg=0.4006, orth=0.0876, top1=0.6000, top5=0.8000
+====iteration_254000: fit=2.2886, reg=0.4000, orth=0.0875, top1=0.4000, top5=0.7750
+====iteration_254500: fit=2.1377, reg=0.3993, orth=0.0873, top1=0.4750, top5=0.8500
+====iteration_255000: fit=1.9213, reg=0.3986, orth=0.0872, top1=0.5750, top5=0.8000
+====iteration_255500: fit=1.7203, reg=0.3980, orth=0.0870, top1=0.6500, top5=0.8250
+====iteration_256000: fit=2.0513, reg=0.3974, orth=0.0869, top1=0.5750, top5=0.6750
+++++iteration_256000: top1=0.4303, top5=0.6919
+====iteration_256500: fit=1.6387, reg=0.3968, orth=0.0867, top1=0.6000, top5=0.9000
+====iteration_257000: fit=1.6172, reg=0.3962, orth=0.0866, top1=0.6250, top5=0.8500
+====iteration_257500: fit=2.1664, reg=0.3955, orth=0.0865, top1=0.6000, top5=0.8250
+====iteration_258000: fit=1.4036, reg=0.3949, orth=0.0864, top1=0.7250, top5=0.8500
+====iteration_258500: fit=1.9999, reg=0.3943, orth=0.0863, top1=0.4750, top5=0.8500
+====iteration_259000: fit=1.8496, reg=0.3938, orth=0.0862, top1=0.6250, top5=0.7750
+====iteration_259500: fit=1.4798, reg=0.3932, orth=0.0861, top1=0.6500, top5=0.8500
+====iteration_260000: fit=1.8049, reg=0.3926, orth=0.0859, top1=0.5500, top5=0.8500
+++++iteration_260000: top1=0.4200, top5=0.6762
+====iteration_260500: fit=2.1311, reg=0.3920, orth=0.0858, top1=0.4750, top5=0.8000
+====iteration_261000: fit=1.9283, reg=0.3915, orth=0.0857, top1=0.5750, top5=0.8500
+====iteration_261500: fit=1.7332, reg=0.3909, orth=0.0855, top1=0.6000, top5=0.7750
+====iteration_262000: fit=1.8152, reg=0.3902, orth=0.0855, top1=0.5000, top5=0.8250
+====iteration_262500: fit=1.3436, reg=0.3896, orth=0.0854, top1=0.7000, top5=0.9250
+====iteration_263000: fit=1.8689, reg=0.3891, orth=0.0852, top1=0.5500, top5=0.8000
+====iteration_263500: fit=1.5931, reg=0.3886, orth=0.0851, top1=0.5750, top5=0.8250
+====iteration_264000: fit=2.4991, reg=0.3881, orth=0.0850, top1=0.5500, top5=0.7250
+++++iteration_264000: top1=0.4029, top5=0.6677
+====iteration_264500: fit=2.3443, reg=0.3874, orth=0.0849, top1=0.4500, top5=0.7250
+====iteration_265000: fit=1.6465, reg=0.3869, orth=0.0848, top1=0.6250, top5=0.8500
+====iteration_265500: fit=1.9160, reg=0.3863, orth=0.0847, top1=0.5500, top5=0.7750
+====iteration_266000: fit=2.2487, reg=0.3858, orth=0.0846, top1=0.4750, top5=0.7750
+====iteration_266500: fit=1.7412, reg=0.3852, orth=0.0845, top1=0.5500, top5=0.8500
+====iteration_267000: fit=1.8558, reg=0.3846, orth=0.0844, top1=0.5750, top5=0.8500
+====iteration_267500: fit=1.4858, reg=0.3841, orth=0.0843, top1=0.5750, top5=0.8500
+====iteration_268000: fit=2.2033, reg=0.3836, orth=0.0843, top1=0.5250, top5=0.7500
+++++iteration_268000: top1=0.4464, top5=0.7039
+====iteration_268500: fit=1.3499, reg=0.3831, orth=0.0842, top1=0.6500, top5=0.8250
+====iteration_269000: fit=1.4884, reg=0.3831, orth=0.0840, top1=0.7000, top5=0.8500
+====iteration_269500: fit=1.9195, reg=0.3830, orth=0.0838, top1=0.5000, top5=0.8250
+====iteration_270000: fit=1.6997, reg=0.3828, orth=0.0837, top1=0.6000, top5=0.8500
+====iteration_270500: fit=1.6611, reg=0.3826, orth=0.0836, top1=0.6000, top5=0.8500
+====iteration_271000: fit=1.5409, reg=0.3824, orth=0.0835, top1=0.7250, top5=0.9250
+====iteration_271500: fit=1.5467, reg=0.3821, orth=0.0833, top1=0.5750, top5=0.8500
+====iteration_272000: fit=1.8868, reg=0.3820, orth=0.0832, top1=0.5750, top5=0.8500
+++++iteration_272000: top1=0.3955, top5=0.6586
+====iteration_272500: fit=1.8503, reg=0.3818, orth=0.0832, top1=0.6000, top5=0.8000
+====iteration_273000: fit=1.8704, reg=0.3815, orth=0.0831, top1=0.4750, top5=0.8250
+====iteration_273500: fit=2.2066, reg=0.3815, orth=0.0829, top1=0.5750, top5=0.7000
+====iteration_274000: fit=1.5920, reg=0.3813, orth=0.0829, top1=0.6000, top5=0.8750
+====iteration_274500: fit=1.8953, reg=0.3810, orth=0.0828, top1=0.5250, top5=0.8500
+====iteration_275000: fit=1.6793, reg=0.3807, orth=0.0827, top1=0.6750, top5=0.7750
+====iteration_275500: fit=1.4282, reg=0.3803, orth=0.0826, top1=0.6250, top5=0.9000
+====iteration_276000: fit=1.4428, reg=0.3798, orth=0.0826, top1=0.5750, top5=0.9250
+++++iteration_276000: top1=0.4210, top5=0.6870
+====iteration_276500: fit=1.6827, reg=0.3794, orth=0.0825, top1=0.6250, top5=0.8250
+====iteration_277000: fit=1.3715, reg=0.3790, orth=0.0824, top1=0.7000, top5=0.9000
+====iteration_277500: fit=1.3688, reg=0.3786, orth=0.0823, top1=0.6000, top5=0.9500
+====iteration_278000: fit=1.5374, reg=0.3783, orth=0.0823, top1=0.6500, top5=0.8500
+====iteration_278500: fit=1.6395, reg=0.3779, orth=0.0822, top1=0.6000, top5=0.9000
+====iteration_279000: fit=1.6086, reg=0.3776, orth=0.0821, top1=0.5250, top5=0.7750
+====iteration_279500: fit=2.0710, reg=0.3773, orth=0.0820, top1=0.5000, top5=0.8500
+====iteration_280000: fit=1.7999, reg=0.3768, orth=0.0819, top1=0.6000, top5=0.8250
+++++iteration_280000: top1=0.4334, top5=0.6967
+====iteration_280500: fit=1.8254, reg=0.3766, orth=0.0820, top1=0.6000, top5=0.8250
+====iteration_281000: fit=1.3971, reg=0.3762, orth=0.0819, top1=0.7000, top5=0.8750
+====iteration_281500: fit=1.8309, reg=0.3759, orth=0.0819, top1=0.5500, top5=0.8000
+====iteration_282000: fit=1.7705, reg=0.3756, orth=0.0817, top1=0.5750, top5=0.8250
+====iteration_282500: fit=2.0551, reg=0.3753, orth=0.0817, top1=0.5750, top5=0.7500
+====iteration_283000: fit=1.6991, reg=0.3749, orth=0.0816, top1=0.6250, top5=0.8500
+====iteration_283500: fit=1.9881, reg=0.3747, orth=0.0815, top1=0.5500, top5=0.7250
+====iteration_284000: fit=1.3401, reg=0.3743, orth=0.0815, top1=0.6500, top5=0.9250
+++++iteration_284000: top1=0.4302, top5=0.6936
+====iteration_284500: fit=2.0916, reg=0.3739, orth=0.0814, top1=0.5500, top5=0.7500
+====iteration_285000: fit=1.4913, reg=0.3735, orth=0.0813, top1=0.5750, top5=0.9000
+====iteration_285500: fit=1.7044, reg=0.3732, orth=0.0813, top1=0.5750, top5=0.7250
+====iteration_286000: fit=1.6912, reg=0.3729, orth=0.0813, top1=0.6000, top5=0.7500
+====iteration_286500: fit=1.9289, reg=0.3725, orth=0.0812, top1=0.6500, top5=0.7750
+====iteration_287000: fit=1.3859, reg=0.3721, orth=0.0811, top1=0.6000, top5=0.8750
+====iteration_287500: fit=1.8967, reg=0.3718, orth=0.0811, top1=0.6000, top5=0.8500
+====iteration_288000: fit=1.4495, reg=0.3714, orth=0.0810, top1=0.6750, top5=0.8500
+++++iteration_288000: top1=0.4561, top5=0.7209
+====iteration_288500: fit=1.7611, reg=0.3711, orth=0.0809, top1=0.5500, top5=0.8500
+====iteration_289000: fit=1.5370, reg=0.3707, orth=0.0809, top1=0.6000, top5=0.9250
+====iteration_289500: fit=2.3830, reg=0.3705, orth=0.0809, top1=0.5000, top5=0.7500
+====iteration_290000: fit=1.2484, reg=0.3702, orth=0.0808, top1=0.7250, top5=0.8750
+====iteration_290500: fit=1.7942, reg=0.3700, orth=0.0807, top1=0.5500, top5=0.8750
+====iteration_291000: fit=1.6974, reg=0.3696, orth=0.0807, top1=0.6750, top5=0.8750
+====iteration_291500: fit=2.0028, reg=0.3691, orth=0.0806, top1=0.6250, top5=0.7500
+====iteration_292000: fit=2.0317, reg=0.3688, orth=0.0806, top1=0.5750, top5=0.8000
+++++iteration_292000: top1=0.4322, top5=0.6915
+====iteration_292500: fit=2.1963, reg=0.3683, orth=0.0805, top1=0.6000, top5=0.7500
+====iteration_293000: fit=1.8595, reg=0.3680, orth=0.0805, top1=0.5750, top5=0.8000
+====iteration_293500: fit=1.7334, reg=0.3682, orth=0.0803, top1=0.5000, top5=0.8750
+====iteration_294000: fit=1.7344, reg=0.3686, orth=0.0802, top1=0.6750, top5=0.8250
+====iteration_294500: fit=1.9795, reg=0.3687, orth=0.0801, top1=0.6000, top5=0.7750
+====iteration_295000: fit=1.9919, reg=0.3684, orth=0.0800, top1=0.5250, top5=0.8250
+====iteration_295500: fit=1.6476, reg=0.3684, orth=0.0800, top1=0.6000, top5=0.8500
+====iteration_296000: fit=1.2229, reg=0.3684, orth=0.0799, top1=0.6750, top5=0.9000
+++++iteration_296000: top1=0.4353, top5=0.6945
+====iteration_296500: fit=1.7588, reg=0.3683, orth=0.0798, top1=0.6000, top5=0.8000
+====iteration_297000: fit=1.9490, reg=0.3683, orth=0.0797, top1=0.5500, top5=0.7750
+====iteration_297500: fit=1.9084, reg=0.3684, orth=0.0797, top1=0.6250, top5=0.8000
+====iteration_298000: fit=1.7977, reg=0.3683, orth=0.0797, top1=0.6250, top5=0.8000
+====iteration_298500: fit=1.3670, reg=0.3681, orth=0.0796, top1=0.7250, top5=0.8500
+====iteration_299000: fit=1.5975, reg=0.3680, orth=0.0796, top1=0.6250, top5=0.8750
+====iteration_299500: fit=1.2603, reg=0.3678, orth=0.0795, top1=0.6750, top5=0.9000
+====iteration_300000: fit=2.2319, reg=0.3675, orth=0.0795, top1=0.5000, top5=0.8000
+++++iteration_300000: top1=0.4079, top5=0.6708
+====iteration_300500: fit=1.4898, reg=0.3674, orth=0.0793, top1=0.6750, top5=0.8500
+====iteration_301000: fit=2.0807, reg=0.3674, orth=0.0793, top1=0.5500, top5=0.7250
+====iteration_301500: fit=1.9747, reg=0.3671, orth=0.0793, top1=0.5000, top5=0.8000
+====iteration_302000: fit=1.5725, reg=0.3670, orth=0.0793, top1=0.5000, top5=0.9250
+====iteration_302500: fit=1.8601, reg=0.3667, orth=0.0792, top1=0.6000, top5=0.7750
+====iteration_303000: fit=1.2271, reg=0.3665, orth=0.0792, top1=0.6750, top5=0.9250
+====iteration_303500: fit=1.7491, reg=0.3662, orth=0.0792, top1=0.4500, top5=0.9000
+====iteration_304000: fit=1.3376, reg=0.3661, orth=0.0792, top1=0.6750, top5=0.8750
+++++iteration_304000: top1=0.4065, top5=0.6675
+====iteration_304500: fit=1.6810, reg=0.3657, orth=0.0791, top1=0.5750, top5=0.8000
+====iteration_305000: fit=2.3107, reg=0.3655, orth=0.0791, top1=0.4000, top5=0.7750
+====iteration_305500: fit=1.4238, reg=0.3652, orth=0.0790, top1=0.6250, top5=0.9250
+====iteration_306000: fit=1.8726, reg=0.3650, orth=0.0790, top1=0.6000, top5=0.8500
+====iteration_306500: fit=1.5735, reg=0.3647, orth=0.0790, top1=0.7250, top5=0.8750
+====iteration_307000: fit=1.3401, reg=0.3646, orth=0.0789, top1=0.6750, top5=0.9000
+====iteration_307500: fit=1.7319, reg=0.3642, orth=0.0788, top1=0.4750, top5=0.8500
+====iteration_308000: fit=1.7337, reg=0.3639, orth=0.0788, top1=0.5750, top5=0.9000
+++++iteration_308000: top1=0.3961, top5=0.6582
+====iteration_308500: fit=1.7416, reg=0.3637, orth=0.0788, top1=0.6000, top5=0.7750
+====iteration_309000: fit=2.1393, reg=0.3635, orth=0.0788, top1=0.5250, top5=0.7500
+====iteration_309500: fit=2.0445, reg=0.3631, orth=0.0787, top1=0.5500, top5=0.8250
+====iteration_310000: fit=1.6641, reg=0.3627, orth=0.0786, top1=0.6500, top5=0.7750
+====iteration_310500: fit=1.5355, reg=0.3624, orth=0.0786, top1=0.7250, top5=0.8500
+====iteration_311000: fit=2.1127, reg=0.3622, orth=0.0786, top1=0.4750, top5=0.8000
+====iteration_311500: fit=2.5289, reg=0.3620, orth=0.0786, top1=0.4750, top5=0.7000
+====iteration_312000: fit=1.7028, reg=0.3619, orth=0.0786, top1=0.6500, top5=0.8250
+++++iteration_312000: top1=0.3947, top5=0.6565
+====iteration_312500: fit=1.7127, reg=0.3615, orth=0.0785, top1=0.6000, top5=0.8500
+====iteration_313000: fit=1.6007, reg=0.3614, orth=0.0785, top1=0.6000, top5=0.8250
+====iteration_313500: fit=1.9969, reg=0.3612, orth=0.0784, top1=0.5750, top5=0.7750
+====iteration_314000: fit=1.7333, reg=0.3610, orth=0.0784, top1=0.7000, top5=0.8500
+====iteration_314500: fit=1.3006, reg=0.3607, orth=0.0784, top1=0.6750, top5=0.9250
+====iteration_315000: fit=1.3978, reg=0.3606, orth=0.0783, top1=0.6750, top5=0.8750
+====iteration_315500: fit=2.1381, reg=0.3603, orth=0.0783, top1=0.5500, top5=0.7500
+====iteration_316000: fit=1.9042, reg=0.3601, orth=0.0783, top1=0.5000, top5=0.7500
+++++iteration_316000: top1=0.4208, top5=0.6767
+====iteration_316500: fit=1.8327, reg=0.3598, orth=0.0782, top1=0.6250, top5=0.8250
+====iteration_317000: fit=1.7175, reg=0.3596, orth=0.0782, top1=0.5500, top5=0.8500
+====iteration_317500: fit=1.3546, reg=0.3593, orth=0.0781, top1=0.6250, top5=0.9250
+====iteration_318000: fit=1.3373, reg=0.3596, orth=0.0781, top1=0.7750, top5=0.8000
+====iteration_318500: fit=1.3622, reg=0.3597, orth=0.0780, top1=0.6750, top5=0.8750
+====iteration_319000: fit=1.7394, reg=0.3601, orth=0.0779, top1=0.5750, top5=0.7750
+====iteration_319500: fit=1.6006, reg=0.3600, orth=0.0779, top1=0.6500, top5=0.8500
+====iteration_320000: fit=1.2645, reg=0.3601, orth=0.0778, top1=0.7250, top5=0.9000
+++++iteration_320000: top1=0.4124, top5=0.6758
+====iteration_320500: fit=1.8292, reg=0.3601, orth=0.0778, top1=0.5000, top5=0.8250
+====iteration_321000: fit=1.6269, reg=0.3600, orth=0.0778, top1=0.5750, top5=0.9000
+====iteration_321500: fit=2.2874, reg=0.3599, orth=0.0777, top1=0.4500, top5=0.7000
+====iteration_322000: fit=1.3240, reg=0.3597, orth=0.0777, top1=0.7000, top5=0.9250
+====iteration_322500: fit=1.6905, reg=0.3597, orth=0.0777, top1=0.5250, top5=0.8750
+====iteration_323000: fit=1.7047, reg=0.3596, orth=0.0777, top1=0.6750, top5=0.8250
+====iteration_323500: fit=1.6216, reg=0.3594, orth=0.0776, top1=0.5500, top5=0.8000
+====iteration_324000: fit=1.5152, reg=0.3593, orth=0.0776, top1=0.6500, top5=0.8750
+++++iteration_324000: top1=0.3949, top5=0.6569
+====iteration_324500: fit=1.9680, reg=0.3592, orth=0.0775, top1=0.4250, top5=0.7750
+====iteration_325000: fit=1.9582, reg=0.3593, orth=0.0774, top1=0.5750, top5=0.8000
+====iteration_325500: fit=1.5106, reg=0.3591, orth=0.0775, top1=0.6000, top5=0.8500
+====iteration_326000: fit=2.0985, reg=0.3589, orth=0.0774, top1=0.5500, top5=0.8000
+====iteration_326500: fit=1.8726, reg=0.3590, orth=0.0774, top1=0.6250, top5=0.8000
+====iteration_327000: fit=1.6164, reg=0.3588, orth=0.0773, top1=0.5750, top5=0.8500
+====iteration_327500: fit=1.8852, reg=0.3587, orth=0.0773, top1=0.5250, top5=0.7750
+====iteration_328000: fit=1.8958, reg=0.3586, orth=0.0772, top1=0.5750, top5=0.8250
+++++iteration_328000: top1=0.4172, top5=0.6840
+====iteration_328500: fit=1.5042, reg=0.3585, orth=0.0773, top1=0.7500, top5=0.9000
+====iteration_329000: fit=1.6410, reg=0.3584, orth=0.0773, top1=0.6750, top5=0.8500
+====iteration_329500: fit=1.8171, reg=0.3581, orth=0.0772, top1=0.5000, top5=0.8250
+====iteration_330000: fit=1.7475, reg=0.3580, orth=0.0772, top1=0.5750, top5=0.8750
+====iteration_330500: fit=2.1999, reg=0.3578, orth=0.0771, top1=0.4000, top5=0.7750
+====iteration_331000: fit=1.6074, reg=0.3576, orth=0.0772, top1=0.6500, top5=0.8250
+====iteration_331500: fit=1.7002, reg=0.3574, orth=0.0771, top1=0.6500, top5=0.8250
+====iteration_332000: fit=2.0259, reg=0.3572, orth=0.0771, top1=0.6500, top5=0.7750
+++++iteration_332000: top1=0.3925, top5=0.6554
+====iteration_332500: fit=1.9136, reg=0.3570, orth=0.0771, top1=0.5500, top5=0.8000
+====iteration_333000: fit=2.1490, reg=0.3568, orth=0.0771, top1=0.5000, top5=0.7250
+====iteration_333500: fit=1.6441, reg=0.3566, orth=0.0770, top1=0.6500, top5=0.8750
+====iteration_334000: fit=2.0168, reg=0.3563, orth=0.0771, top1=0.5500, top5=0.7750
+====iteration_334500: fit=1.7592, reg=0.3561, orth=0.0771, top1=0.6250, top5=0.9000
+====iteration_335000: fit=1.8915, reg=0.3559, orth=0.0771, top1=0.5000, top5=0.8250
+====iteration_335500: fit=1.2456, reg=0.3558, orth=0.0771, top1=0.7250, top5=0.9000
+====iteration_336000: fit=2.2103, reg=0.3556, orth=0.0770, top1=0.5250, top5=0.8000
+++++iteration_336000: top1=0.4008, top5=0.6657
+====iteration_336500: fit=1.9845, reg=0.3554, orth=0.0770, top1=0.5500, top5=0.8250
+====iteration_337000: fit=1.9004, reg=0.3552, orth=0.0770, top1=0.5250, top5=0.7750
+====iteration_337500: fit=2.2661, reg=0.3550, orth=0.0770, top1=0.4750, top5=0.7000
+====iteration_338000: fit=2.1201, reg=0.3548, orth=0.0769, top1=0.6250, top5=0.8000
+====iteration_338500: fit=1.9968, reg=0.3547, orth=0.0769, top1=0.5500, top5=0.7500
+====iteration_339000: fit=1.5318, reg=0.3543, orth=0.0769, top1=0.7000, top5=0.8500
+====iteration_339500: fit=2.1867, reg=0.3540, orth=0.0768, top1=0.4500, top5=0.7500
+====iteration_340000: fit=1.9760, reg=0.3538, orth=0.0768, top1=0.6750, top5=0.7750
+++++iteration_340000: top1=0.3864, top5=0.6495
+====iteration_340500: fit=1.8572, reg=0.3535, orth=0.0768, top1=0.5750, top5=0.7500
+====iteration_341000: fit=2.0328, reg=0.3533, orth=0.0768, top1=0.6000, top5=0.7250
+====iteration_341500: fit=2.0053, reg=0.3532, orth=0.0768, top1=0.6250, top5=0.7250
+====iteration_342000: fit=1.9980, reg=0.3530, orth=0.0768, top1=0.5750, top5=0.8250
+====iteration_342500: fit=1.1977, reg=0.3531, orth=0.0768, top1=0.7250, top5=0.9250
+====iteration_343000: fit=1.5705, reg=0.3532, orth=0.0766, top1=0.6250, top5=0.8750
+====iteration_343500: fit=1.5272, reg=0.3538, orth=0.0765, top1=0.6250, top5=0.8500
+====iteration_344000: fit=2.2182, reg=0.3540, orth=0.0764, top1=0.5000, top5=0.7250
+++++iteration_344000: top1=0.4043, top5=0.6690
+====iteration_344500: fit=1.4893, reg=0.3541, orth=0.0764, top1=0.6250, top5=0.8500
+====iteration_345000: fit=1.7123, reg=0.3542, orth=0.0763, top1=0.6250, top5=0.8000
+====iteration_345500: fit=1.5624, reg=0.3541, orth=0.0763, top1=0.5750, top5=0.8250
+====iteration_346000: fit=1.9586, reg=0.3541, orth=0.0763, top1=0.4500, top5=0.8000
+====iteration_346500: fit=1.9482, reg=0.3539, orth=0.0763, top1=0.5500, top5=0.6750
+====iteration_347000: fit=1.5678, reg=0.3539, orth=0.0762, top1=0.5750, top5=0.8750
+====iteration_347500: fit=1.2710, reg=0.3538, orth=0.0762, top1=0.7750, top5=0.9000
+====iteration_348000: fit=1.7543, reg=0.3536, orth=0.0761, top1=0.6250, top5=0.8750
+++++iteration_348000: top1=0.4074, top5=0.6725
+====iteration_348500: fit=2.2884, reg=0.3536, orth=0.0761, top1=0.5000, top5=0.6750
+====iteration_349000: fit=1.7471, reg=0.3534, orth=0.0761, top1=0.5500, top5=0.8500
+====iteration_349500: fit=1.4723, reg=0.3535, orth=0.0761, top1=0.6250, top5=0.9250
+====iteration_350000: fit=1.4397, reg=0.3534, orth=0.0761, top1=0.6250, top5=0.9250
+====iteration_350500: fit=1.6112, reg=0.3534, orth=0.0760, top1=0.5750, top5=0.9000
+====iteration_351000: fit=1.5296, reg=0.3534, orth=0.0761, top1=0.7500, top5=0.8250
+====iteration_351500: fit=1.5875, reg=0.3531, orth=0.0760, top1=0.6250, top5=0.8750
+====iteration_352000: fit=1.9406, reg=0.3531, orth=0.0760, top1=0.5250, top5=0.8000
+++++iteration_352000: top1=0.3714, top5=0.6222
+====iteration_352500: fit=1.3396, reg=0.3531, orth=0.0760, top1=0.6500, top5=0.9000
+====iteration_353000: fit=1.9247, reg=0.3529, orth=0.0760, top1=0.5000, top5=0.8500
+====iteration_353500: fit=1.7134, reg=0.3527, orth=0.0760, top1=0.6250, top5=0.8750
+====iteration_354000: fit=2.3006, reg=0.3526, orth=0.0760, top1=0.5250, top5=0.7250
+====iteration_354500: fit=1.6441, reg=0.3524, orth=0.0760, top1=0.6750, top5=0.8500
+====iteration_355000: fit=1.8069, reg=0.3522, orth=0.0760, top1=0.6250, top5=0.8250
+====iteration_355500: fit=2.2913, reg=0.3520, orth=0.0760, top1=0.5500, top5=0.8250
+====iteration_356000: fit=1.9958, reg=0.3517, orth=0.0760, top1=0.5250, top5=0.8000
+++++iteration_356000: top1=0.3738, top5=0.6325
+====iteration_356500: fit=1.7658, reg=0.3517, orth=0.0760, top1=0.5500, top5=0.8250
+====iteration_357000: fit=1.9153, reg=0.3516, orth=0.0760, top1=0.5750, top5=0.7500
+====iteration_357500: fit=2.0254, reg=0.3514, orth=0.0759, top1=0.4750, top5=0.8000
+====iteration_358000: fit=2.1722, reg=0.3512, orth=0.0760, top1=0.5000, top5=0.7750
+====iteration_358500: fit=1.8778, reg=0.3510, orth=0.0760, top1=0.5250, top5=0.7750
+====iteration_359000: fit=1.1720, reg=0.3508, orth=0.0760, top1=0.7750, top5=0.9250
+====iteration_359500: fit=1.5602, reg=0.3506, orth=0.0759, top1=0.5750, top5=0.9000
+====iteration_360000: fit=2.1991, reg=0.3506, orth=0.0759, top1=0.4250, top5=0.7750
+++++iteration_360000: top1=0.3218, top5=0.5803
+====iteration_360500: fit=1.6562, reg=0.3504, orth=0.0760, top1=0.6500, top5=0.9000
+====iteration_361000: fit=1.7737, reg=0.3503, orth=0.0759, top1=0.6250, top5=0.8250
+====iteration_361500: fit=1.3377, reg=0.3501, orth=0.0759, top1=0.7250, top5=0.9250
+====iteration_362000: fit=1.7747, reg=0.3500, orth=0.0759, top1=0.4750, top5=0.8500
+====iteration_362500: fit=1.5270, reg=0.3499, orth=0.0759, top1=0.6750, top5=0.8250
+====iteration_363000: fit=2.0501, reg=0.3498, orth=0.0759, top1=0.5250, top5=0.8750
+====iteration_363500: fit=1.6857, reg=0.3495, orth=0.0759, top1=0.5750, top5=0.8500
+====iteration_364000: fit=1.7005, reg=0.3494, orth=0.0758, top1=0.6000, top5=0.8500
+++++iteration_364000: top1=0.3473, top5=0.6105
+====iteration_364500: fit=2.2909, reg=0.3492, orth=0.0758, top1=0.6000, top5=0.7500
+====iteration_365000: fit=1.6481, reg=0.3489, orth=0.0757, top1=0.6250, top5=0.8250
+====iteration_365500: fit=1.6790, reg=0.3487, orth=0.0758, top1=0.6250, top5=0.9000
+====iteration_366000: fit=2.2175, reg=0.3484, orth=0.0757, top1=0.4750, top5=0.7500
+====iteration_366500: fit=1.7750, reg=0.3482, orth=0.0758, top1=0.6500, top5=0.8750
+====iteration_367000: fit=1.6718, reg=0.3483, orth=0.0757, top1=0.6750, top5=0.8750
+====iteration_367500: fit=1.3830, reg=0.3485, orth=0.0756, top1=0.7000, top5=0.9250
+====iteration_368000: fit=1.8124, reg=0.3487, orth=0.0755, top1=0.6750, top5=0.8000
+++++iteration_368000: top1=0.3759, top5=0.6376
+====iteration_368500: fit=1.9077, reg=0.3486, orth=0.0754, top1=0.5250, top5=0.7750
+====iteration_369000: fit=1.4040, reg=0.3487, orth=0.0754, top1=0.6000, top5=0.9250
+====iteration_369500: fit=1.6766, reg=0.3489, orth=0.0754, top1=0.6250, top5=0.8750
+====iteration_370000: fit=1.5188, reg=0.3489, orth=0.0753, top1=0.6250, top5=0.8250
+====iteration_370500: fit=2.0328, reg=0.3490, orth=0.0753, top1=0.5500, top5=0.8000
+====iteration_371000: fit=1.9653, reg=0.3490, orth=0.0753, top1=0.4750, top5=0.8000
+====iteration_371500: fit=1.3705, reg=0.3489, orth=0.0753, top1=0.7000, top5=0.8750
+====iteration_372000: fit=1.5370, reg=0.3489, orth=0.0753, top1=0.6500, top5=0.8750
+++++iteration_372000: top1=0.3916, top5=0.6535
+====iteration_372500: fit=1.6039, reg=0.3489, orth=0.0754, top1=0.6250, top5=0.8750
+====iteration_373000: fit=1.8997, reg=0.3488, orth=0.0753, top1=0.6250, top5=0.8000
+====iteration_373500: fit=1.6465, reg=0.3487, orth=0.0754, top1=0.6000, top5=0.8500
+====iteration_374000: fit=1.7007, reg=0.3487, orth=0.0754, top1=0.6000, top5=0.8500
+====iteration_374500: fit=1.5172, reg=0.3486, orth=0.0753, top1=0.6000, top5=0.8500
+====iteration_375000: fit=1.4195, reg=0.3485, orth=0.0753, top1=0.7250, top5=0.8500
+====iteration_375500: fit=1.4647, reg=0.3484, orth=0.0752, top1=0.5750, top5=0.9250
+====iteration_376000: fit=1.6404, reg=0.3483, orth=0.0751, top1=0.5750, top5=0.8000
+++++iteration_376000: top1=0.5920, top5=0.8248
+====iteration_376500: fit=1.7466, reg=0.3482, orth=0.0751, top1=0.5750, top5=0.8000
+====iteration_377000: fit=1.5229, reg=0.3481, orth=0.0750, top1=0.6250, top5=0.9000
+====iteration_377500: fit=2.4296, reg=0.3479, orth=0.0749, top1=0.4000, top5=0.7500
+====iteration_378000: fit=1.4929, reg=0.3478, orth=0.0748, top1=0.6250, top5=0.8500
+====iteration_378500: fit=1.2351, reg=0.3477, orth=0.0748, top1=0.7750, top5=0.8750
+====iteration_379000: fit=1.5450, reg=0.3476, orth=0.0747, top1=0.6250, top5=0.8750
+====iteration_379500: fit=1.4068, reg=0.3474, orth=0.0746, top1=0.7500, top5=0.8500
+====iteration_380000: fit=1.3676, reg=0.3473, orth=0.0745, top1=0.7250, top5=0.8500
+++++iteration_380000: top1=0.6173, top5=0.8405
+====iteration_380500: fit=1.6022, reg=0.3472, orth=0.0745, top1=0.5250, top5=0.8500
+====iteration_381000: fit=1.7041, reg=0.3471, orth=0.0744, top1=0.6750, top5=0.8250
+====iteration_381500: fit=1.5096, reg=0.3469, orth=0.0743, top1=0.6250, top5=0.8750
+====iteration_382000: fit=0.8320, reg=0.3468, orth=0.0742, top1=0.7750, top5=0.9500
+====iteration_382500: fit=1.5819, reg=0.3467, orth=0.0741, top1=0.6000, top5=0.8750
+====iteration_383000: fit=1.3007, reg=0.3465, orth=0.0741, top1=0.7250, top5=0.9000
+====iteration_383500: fit=1.1691, reg=0.3464, orth=0.0740, top1=0.6750, top5=0.9250
+====iteration_384000: fit=1.1844, reg=0.3463, orth=0.0739, top1=0.7250, top5=0.9000
+++++iteration_384000: top1=0.6260, top5=0.8466
+====iteration_384500: fit=1.3901, reg=0.3462, orth=0.0739, top1=0.6250, top5=0.8250
+====iteration_385000: fit=1.1056, reg=0.3460, orth=0.0738, top1=0.7250, top5=0.9250
+====iteration_385500: fit=1.3679, reg=0.3459, orth=0.0737, top1=0.6750, top5=0.8500
+====iteration_386000: fit=1.6954, reg=0.3458, orth=0.0737, top1=0.6250, top5=0.8250
+====iteration_386500: fit=0.9672, reg=0.3456, orth=0.0736, top1=0.7750, top5=0.9250
+====iteration_387000: fit=1.1200, reg=0.3455, orth=0.0735, top1=0.7750, top5=0.9500
+====iteration_387500: fit=1.5625, reg=0.3453, orth=0.0735, top1=0.6500, top5=0.8500
+====iteration_388000: fit=1.6145, reg=0.3452, orth=0.0734, top1=0.7000, top5=0.8500
+++++iteration_388000: top1=0.6321, top5=0.8517
+====iteration_388500: fit=1.1882, reg=0.3451, orth=0.0734, top1=0.6750, top5=0.9000
+====iteration_389000: fit=1.2276, reg=0.3449, orth=0.0733, top1=0.8000, top5=0.9000
+====iteration_389500: fit=1.3286, reg=0.3448, orth=0.0732, top1=0.6500, top5=0.9000
+====iteration_390000: fit=1.5105, reg=0.3447, orth=0.0732, top1=0.6250, top5=0.8750
+====iteration_390500: fit=1.2695, reg=0.3445, orth=0.0731, top1=0.7250, top5=0.8750
+====iteration_391000: fit=0.7453, reg=0.3444, orth=0.0730, top1=0.8750, top5=0.9500
+====iteration_391500: fit=1.8489, reg=0.3443, orth=0.0730, top1=0.5500, top5=0.8000
+====iteration_392000: fit=1.2654, reg=0.3442, orth=0.0729, top1=0.6750, top5=0.9000
+++++iteration_392000: top1=0.6373, top5=0.8560
+====iteration_392500: fit=1.1235, reg=0.3441, orth=0.0728, top1=0.7000, top5=0.9000
+====iteration_393000: fit=1.0790, reg=0.3440, orth=0.0728, top1=0.8000, top5=0.8750
+====iteration_393500: fit=0.9739, reg=0.3439, orth=0.0727, top1=0.7000, top5=0.9500
+====iteration_394000: fit=1.4356, reg=0.3438, orth=0.0726, top1=0.6000, top5=0.8500
+====iteration_394500: fit=1.3076, reg=0.3437, orth=0.0726, top1=0.8000, top5=0.8750
+====iteration_395000: fit=0.8590, reg=0.3436, orth=0.0725, top1=0.8000, top5=0.9500
+====iteration_395500: fit=1.9521, reg=0.3436, orth=0.0724, top1=0.5500, top5=0.8000
+====iteration_396000: fit=0.9819, reg=0.3435, orth=0.0724, top1=0.7750, top5=0.9000
+++++iteration_396000: top1=0.6400, top5=0.8580
+====iteration_396500: fit=1.2110, reg=0.3434, orth=0.0723, top1=0.7500, top5=0.8750
+====iteration_397000: fit=1.1763, reg=0.3433, orth=0.0723, top1=0.8000, top5=0.9250
+====iteration_397500: fit=0.9961, reg=0.3432, orth=0.0722, top1=0.6750, top5=0.9250
+====iteration_398000: fit=0.9689, reg=0.3431, orth=0.0721, top1=0.7500, top5=0.9250
+====iteration_398500: fit=1.3968, reg=0.3430, orth=0.0721, top1=0.7000, top5=0.8500
+====iteration_399000: fit=1.2001, reg=0.3429, orth=0.0720, top1=0.7000, top5=0.9500
+====iteration_399500: fit=0.8583, reg=0.3428, orth=0.0719, top1=0.8500, top5=0.9250
+====iteration_400000: fit=1.0993, reg=0.3427, orth=0.0719, top1=0.7750, top5=0.9000
+++++iteration_400000: top1=0.6432, top5=0.8602
+====iteration_400500: fit=1.0417, reg=0.3426, orth=0.0718, top1=0.8000, top5=0.9000
+====iteration_401000: fit=0.8528, reg=0.3425, orth=0.0718, top1=0.7750, top5=0.9500
+====iteration_401500: fit=1.2833, reg=0.3424, orth=0.0717, top1=0.7750, top5=0.8750
+====iteration_402000: fit=1.5581, reg=0.3423, orth=0.0716, top1=0.6750, top5=0.8500
+====iteration_402500: fit=1.7927, reg=0.3422, orth=0.0716, top1=0.6250, top5=0.8500
+====iteration_403000: fit=1.5186, reg=0.3421, orth=0.0715, top1=0.6750, top5=0.8500
+====iteration_403500: fit=1.0550, reg=0.3420, orth=0.0714, top1=0.7750, top5=0.9000
+====iteration_404000: fit=0.8889, reg=0.3419, orth=0.0714, top1=0.8250, top5=0.9250
+++++iteration_404000: top1=0.6456, top5=0.8611
+====iteration_404500: fit=1.7658, reg=0.3418, orth=0.0713, top1=0.6500, top5=0.8250
+====iteration_405000: fit=1.1890, reg=0.3417, orth=0.0713, top1=0.7750, top5=0.9000
+====iteration_405500: fit=1.1585, reg=0.3416, orth=0.0712, top1=0.8250, top5=0.9250
+====iteration_406000: fit=1.1194, reg=0.3415, orth=0.0711, top1=0.7250, top5=0.9250
+====iteration_406500: fit=1.2349, reg=0.3414, orth=0.0711, top1=0.7750, top5=0.8750
+====iteration_407000: fit=1.1512, reg=0.3413, orth=0.0710, top1=0.7250, top5=0.9250
+====iteration_407500: fit=0.9667, reg=0.3412, orth=0.0710, top1=0.7500, top5=0.9000
+====iteration_408000: fit=1.0915, reg=0.3410, orth=0.0709, top1=0.7250, top5=0.9250
+++++iteration_408000: top1=0.6482, top5=0.8605
+====iteration_408500: fit=1.0101, reg=0.3410, orth=0.0709, top1=0.7500, top5=0.9500
+====iteration_409000: fit=1.0098, reg=0.3409, orth=0.0708, top1=0.7000, top5=0.9500
+====iteration_409500: fit=1.0383, reg=0.3408, orth=0.0708, top1=0.7250, top5=0.9500
+====iteration_410000: fit=1.1788, reg=0.3407, orth=0.0707, top1=0.7750, top5=0.8500
+====iteration_410500: fit=1.0642, reg=0.3406, orth=0.0707, top1=0.6500, top5=0.9500
+====iteration_411000: fit=1.4982, reg=0.3404, orth=0.0706, top1=0.7000, top5=0.8750
+====iteration_411500: fit=1.2773, reg=0.3403, orth=0.0705, top1=0.6750, top5=0.9250
+====iteration_412000: fit=1.0078, reg=0.3402, orth=0.0705, top1=0.8000, top5=0.9000
+++++iteration_412000: top1=0.6472, top5=0.8635
+====iteration_412500: fit=1.0094, reg=0.3401, orth=0.0704, top1=0.7750, top5=0.9250
+====iteration_413000: fit=0.8190, reg=0.3400, orth=0.0704, top1=0.8000, top5=0.9750
+====iteration_413500: fit=1.3979, reg=0.3399, orth=0.0703, top1=0.6750, top5=0.8750
+====iteration_414000: fit=0.8772, reg=0.3398, orth=0.0703, top1=0.8000, top5=0.9750
+====iteration_414500: fit=1.2287, reg=0.3397, orth=0.0702, top1=0.6750, top5=0.9250
+====iteration_415000: fit=0.9014, reg=0.3396, orth=0.0701, top1=0.7500, top5=0.9250
+====iteration_415500: fit=1.4181, reg=0.3395, orth=0.0701, top1=0.7000, top5=0.8750
+====iteration_416000: fit=0.8847, reg=0.3394, orth=0.0700, top1=0.7750, top5=0.9500
+++++iteration_416000: top1=0.6495, top5=0.8626
+====iteration_416500: fit=1.6488, reg=0.3393, orth=0.0700, top1=0.6750, top5=0.8750
+====iteration_417000: fit=1.1374, reg=0.3392, orth=0.0699, top1=0.7000, top5=0.9500
+====iteration_417500: fit=0.8233, reg=0.3391, orth=0.0699, top1=0.8250, top5=0.9500
+====iteration_418000: fit=0.9820, reg=0.3390, orth=0.0698, top1=0.7250, top5=0.9250
+====iteration_418500: fit=1.0709, reg=0.3390, orth=0.0698, top1=0.7500, top5=0.9500
+====iteration_419000: fit=1.2255, reg=0.3389, orth=0.0697, top1=0.6750, top5=0.9000
+====iteration_419500: fit=1.3345, reg=0.3388, orth=0.0697, top1=0.7250, top5=0.8750
+====iteration_420000: fit=1.3387, reg=0.3387, orth=0.0696, top1=0.6500, top5=0.9000
+++++iteration_420000: top1=0.6526, top5=0.8645
+====iteration_420500: fit=1.7631, reg=0.3387, orth=0.0696, top1=0.6500, top5=0.7250
+====iteration_421000: fit=1.0325, reg=0.3386, orth=0.0695, top1=0.8000, top5=0.9000
+====iteration_421500: fit=0.8460, reg=0.3385, orth=0.0694, top1=0.8500, top5=0.9250
+====iteration_422000: fit=1.0543, reg=0.3384, orth=0.0694, top1=0.7750, top5=0.9250
+====iteration_422500: fit=1.1889, reg=0.3383, orth=0.0694, top1=0.8000, top5=0.9000
+====iteration_423000: fit=0.9929, reg=0.3382, orth=0.0693, top1=0.7000, top5=0.9250
+====iteration_423500: fit=0.8062, reg=0.3381, orth=0.0692, top1=0.8250, top5=0.9750
+====iteration_424000: fit=0.5529, reg=0.3380, orth=0.0692, top1=0.8750, top5=0.9750
+++++iteration_424000: top1=0.6498, top5=0.8651
+====iteration_424500: fit=1.3633, reg=0.3379, orth=0.0691, top1=0.6750, top5=0.9250
+====iteration_425000: fit=1.4708, reg=0.3379, orth=0.0691, top1=0.6500, top5=0.8750
+====iteration_425500: fit=1.3631, reg=0.3378, orth=0.0690, top1=0.6250, top5=0.9000
+====iteration_426000: fit=0.8707, reg=0.3377, orth=0.0690, top1=0.8000, top5=0.9250
+====iteration_426500: fit=1.1528, reg=0.3376, orth=0.0689, top1=0.7000, top5=0.9250
+====iteration_427000: fit=0.9164, reg=0.3375, orth=0.0689, top1=0.7000, top5=0.9500
+====iteration_427500: fit=1.2043, reg=0.3374, orth=0.0688, top1=0.7250, top5=0.9250
+====iteration_428000: fit=1.0182, reg=0.3373, orth=0.0688, top1=0.7500, top5=0.8750
+++++iteration_428000: top1=0.6535, top5=0.8673
+====iteration_428500: fit=0.8836, reg=0.3372, orth=0.0687, top1=0.8000, top5=0.9750
+====iteration_429000: fit=1.0356, reg=0.3371, orth=0.0687, top1=0.7250, top5=0.9500
+====iteration_429500: fit=1.2265, reg=0.3371, orth=0.0686, top1=0.7500, top5=0.9000
+====iteration_430000: fit=0.8306, reg=0.3370, orth=0.0686, top1=0.7750, top5=0.9750
+====iteration_430500: fit=0.9838, reg=0.3369, orth=0.0685, top1=0.8250, top5=0.9250
+====iteration_431000: fit=1.7128, reg=0.3368, orth=0.0685, top1=0.6250, top5=0.8000
+====iteration_431500: fit=1.2360, reg=0.3367, orth=0.0684, top1=0.6750, top5=0.9500
+====iteration_432000: fit=1.5039, reg=0.3366, orth=0.0684, top1=0.6250, top5=0.8250
+++++iteration_432000: top1=0.6527, top5=0.8664
+====iteration_432500: fit=1.3560, reg=0.3365, orth=0.0684, top1=0.6750, top5=0.9000
+====iteration_433000: fit=0.8843, reg=0.3364, orth=0.0683, top1=0.7500, top5=0.9750
+====iteration_433500: fit=0.9981, reg=0.3363, orth=0.0683, top1=0.7750, top5=0.9250
+====iteration_434000: fit=1.1928, reg=0.3362, orth=0.0682, top1=0.6000, top5=0.9250
+====iteration_434500: fit=1.1575, reg=0.3361, orth=0.0682, top1=0.6500, top5=0.9250
+====iteration_435000: fit=1.2833, reg=0.3360, orth=0.0681, top1=0.7000, top5=0.9000
+====iteration_435500: fit=0.9310, reg=0.3359, orth=0.0681, top1=0.7000, top5=0.9500
+====iteration_436000: fit=0.9840, reg=0.3358, orth=0.0680, top1=0.7500, top5=0.9500
+++++iteration_436000: top1=0.6558, top5=0.8687
+====iteration_436500: fit=0.7812, reg=0.3358, orth=0.0680, top1=0.8000, top5=1.0000
+====iteration_437000: fit=0.5974, reg=0.3357, orth=0.0679, top1=0.8000, top5=0.9750
+====iteration_437500: fit=1.0329, reg=0.3356, orth=0.0679, top1=0.7250, top5=0.9250
+====iteration_438000: fit=1.1960, reg=0.3355, orth=0.0678, top1=0.6750, top5=0.9250
+====iteration_438500: fit=0.9917, reg=0.3354, orth=0.0678, top1=0.7500, top5=0.9250
+====iteration_439000: fit=1.1140, reg=0.3353, orth=0.0678, top1=0.8250, top5=0.9000
+====iteration_439500: fit=1.1735, reg=0.3352, orth=0.0677, top1=0.7250, top5=0.8750
+====iteration_440000: fit=1.0751, reg=0.3351, orth=0.0677, top1=0.8250, top5=0.9250
+++++iteration_440000: top1=0.6545, top5=0.8675
+====iteration_440500: fit=1.1382, reg=0.3351, orth=0.0676, top1=0.7500, top5=0.9250
+====iteration_441000: fit=0.7399, reg=0.3350, orth=0.0676, top1=0.8250, top5=0.9750
+====iteration_441500: fit=1.3062, reg=0.3349, orth=0.0675, top1=0.7500, top5=0.9250
+====iteration_442000: fit=1.0312, reg=0.3349, orth=0.0675, top1=0.7750, top5=0.9250
+====iteration_442500: fit=0.9161, reg=0.3348, orth=0.0674, top1=0.8500, top5=0.9250
+====iteration_443000: fit=1.3053, reg=0.3348, orth=0.0674, top1=0.7500, top5=0.9000
+====iteration_443500: fit=1.2098, reg=0.3347, orth=0.0673, top1=0.6500, top5=0.9500
+====iteration_444000: fit=1.0605, reg=0.3346, orth=0.0673, top1=0.7250, top5=0.9250
+++++iteration_444000: top1=0.6551, top5=0.8690
+====iteration_444500: fit=0.8224, reg=0.3346, orth=0.0673, top1=0.7500, top5=0.9500
+====iteration_445000: fit=1.1105, reg=0.3345, orth=0.0672, top1=0.6750, top5=0.8750
+====iteration_445500: fit=0.9795, reg=0.3344, orth=0.0672, top1=0.7750, top5=0.9250
+====iteration_446000: fit=1.3223, reg=0.3343, orth=0.0671, top1=0.8000, top5=0.8500
+====iteration_446500: fit=0.8744, reg=0.3343, orth=0.0671, top1=0.7750, top5=1.0000
+====iteration_447000: fit=0.8664, reg=0.3342, orth=0.0670, top1=0.8000, top5=0.9750
+====iteration_447500: fit=0.6817, reg=0.3342, orth=0.0670, top1=0.7750, top5=0.9750
+====iteration_448000: fit=0.8700, reg=0.3341, orth=0.0669, top1=0.8000, top5=0.9250
+++++iteration_448000: top1=0.6557, top5=0.8683
+====iteration_448500: fit=1.2212, reg=0.3340, orth=0.0669, top1=0.7500, top5=0.9000
+====iteration_449000: fit=1.1585, reg=0.3339, orth=0.0668, top1=0.7500, top5=0.9000
+====iteration_449500: fit=1.1379, reg=0.3339, orth=0.0668, top1=0.7750, top5=0.9250
+====iteration_450000: fit=1.1403, reg=0.3338, orth=0.0668, top1=0.8000, top5=0.9000
+====iteration_450500: fit=0.7777, reg=0.3337, orth=0.0667, top1=0.8500, top5=0.9750
+====iteration_451000: fit=1.1439, reg=0.3337, orth=0.0667, top1=0.6500, top5=0.9500
+====iteration_451500: fit=1.0364, reg=0.3336, orth=0.0666, top1=0.7250, top5=0.9000
+====iteration_452000: fit=0.8067, reg=0.3335, orth=0.0666, top1=0.7250, top5=0.9750
+++++iteration_452000: top1=0.6489, top5=0.8640
+====iteration_452500: fit=1.3741, reg=0.3334, orth=0.0665, top1=0.7000, top5=0.9250
+====iteration_453000: fit=1.2122, reg=0.3333, orth=0.0665, top1=0.7500, top5=0.8750
+====iteration_453500: fit=1.0238, reg=0.3333, orth=0.0665, top1=0.7250, top5=0.9500
+====iteration_454000: fit=1.2742, reg=0.3332, orth=0.0664, top1=0.7250, top5=0.9250
+====iteration_454500: fit=0.7811, reg=0.3331, orth=0.0664, top1=0.7500, top5=0.9500
+====iteration_455000: fit=1.2823, reg=0.3330, orth=0.0663, top1=0.7500, top5=0.8750
+====iteration_455500: fit=0.8033, reg=0.3329, orth=0.0663, top1=0.7500, top5=0.9500
+====iteration_456000: fit=0.6326, reg=0.3329, orth=0.0663, top1=0.8500, top5=0.9750
+++++iteration_456000: top1=0.6576, top5=0.8673
+====iteration_456500: fit=1.3688, reg=0.3328, orth=0.0662, top1=0.6500, top5=0.9000
+====iteration_457000: fit=1.2040, reg=0.3327, orth=0.0662, top1=0.7000, top5=0.9000
+====iteration_457500: fit=0.6829, reg=0.3327, orth=0.0661, top1=0.8500, top5=0.9500
+====iteration_458000: fit=0.9361, reg=0.3326, orth=0.0661, top1=0.7750, top5=0.9250
+====iteration_458500: fit=1.1703, reg=0.3325, orth=0.0661, top1=0.7000, top5=0.9000
+====iteration_459000: fit=0.8800, reg=0.3324, orth=0.0660, top1=0.7500, top5=0.9500
+====iteration_459500: fit=1.1967, reg=0.3323, orth=0.0660, top1=0.6500, top5=0.9000
+====iteration_460000: fit=1.0613, reg=0.3322, orth=0.0659, top1=0.8000, top5=0.9250
+++++iteration_460000: top1=0.6581, top5=0.8691
+====iteration_460500: fit=1.0767, reg=0.3321, orth=0.0659, top1=0.7500, top5=0.9500
+====iteration_461000: fit=0.8147, reg=0.3321, orth=0.0659, top1=0.7750, top5=0.9750
+====iteration_461500: fit=1.0369, reg=0.3320, orth=0.0658, top1=0.8000, top5=0.9500
+====iteration_462000: fit=1.2046, reg=0.3319, orth=0.0658, top1=0.6750, top5=0.9000
+====iteration_462500: fit=0.6571, reg=0.3318, orth=0.0657, top1=0.8250, top5=1.0000
+====iteration_463000: fit=0.8324, reg=0.3317, orth=0.0657, top1=0.8250, top5=0.9500
+====iteration_463500: fit=0.9539, reg=0.3316, orth=0.0657, top1=0.8000, top5=0.9500
+====iteration_464000: fit=1.0346, reg=0.3315, orth=0.0656, top1=0.7500, top5=0.9500
+++++iteration_464000: top1=0.6569, top5=0.8678
+====iteration_464500: fit=0.8512, reg=0.3315, orth=0.0656, top1=0.8500, top5=0.9500
+====iteration_465000: fit=0.9581, reg=0.3314, orth=0.0655, top1=0.7750, top5=0.9250
+====iteration_465500: fit=0.7000, reg=0.3314, orth=0.0655, top1=0.8000, top5=1.0000
+====iteration_466000: fit=1.0527, reg=0.3313, orth=0.0655, top1=0.8000, top5=0.9000
+====iteration_466500: fit=0.8925, reg=0.3313, orth=0.0654, top1=0.8000, top5=0.9500
+====iteration_467000: fit=0.7276, reg=0.3312, orth=0.0654, top1=0.8500, top5=0.9500
+====iteration_467500: fit=1.0009, reg=0.3312, orth=0.0653, top1=0.7000, top5=0.9250
+====iteration_468000: fit=1.5244, reg=0.3311, orth=0.0653, top1=0.6250, top5=0.8750
+++++iteration_468000: top1=0.6575, top5=0.8704
+====iteration_468500: fit=0.8729, reg=0.3310, orth=0.0652, top1=0.8500, top5=0.9500
+====iteration_469000: fit=0.8654, reg=0.3310, orth=0.0652, top1=0.7000, top5=0.9750
+====iteration_469500: fit=0.8473, reg=0.3309, orth=0.0652, top1=0.8000, top5=0.9500
+====iteration_470000: fit=1.0555, reg=0.3309, orth=0.0651, top1=0.6500, top5=0.9250
+====iteration_470500: fit=0.9769, reg=0.3308, orth=0.0651, top1=0.7500, top5=0.9500
+====iteration_471000: fit=1.1102, reg=0.3308, orth=0.0651, top1=0.7250, top5=0.9000
+====iteration_471500: fit=0.8331, reg=0.3307, orth=0.0650, top1=0.8000, top5=1.0000
+====iteration_472000: fit=0.9973, reg=0.3306, orth=0.0650, top1=0.7500, top5=0.9250
+++++iteration_472000: top1=0.6572, top5=0.8719
+====iteration_472500: fit=1.1001, reg=0.3306, orth=0.0649, top1=0.7500, top5=0.9500
+====iteration_473000: fit=0.8609, reg=0.3305, orth=0.0649, top1=0.8500, top5=0.9500
+====iteration_473500: fit=0.7231, reg=0.3305, orth=0.0649, top1=0.7750, top5=0.9750
+====iteration_474000: fit=1.0439, reg=0.3304, orth=0.0648, top1=0.7500, top5=0.8750
+====iteration_474500: fit=1.5461, reg=0.3303, orth=0.0648, top1=0.6500, top5=0.8750
+====iteration_475000: fit=1.1834, reg=0.3303, orth=0.0648, top1=0.6000, top5=0.9000
+====iteration_475500: fit=0.9858, reg=0.3302, orth=0.0647, top1=0.8000, top5=0.9250
+====iteration_476000: fit=1.1010, reg=0.3302, orth=0.0647, top1=0.7000, top5=0.9000
+++++iteration_476000: top1=0.6579, top5=0.8701
+====iteration_476500: fit=1.0412, reg=0.3301, orth=0.0646, top1=0.7750, top5=0.9000
+====iteration_477000: fit=1.0577, reg=0.3300, orth=0.0646, top1=0.7000, top5=0.9250
+====iteration_477500: fit=0.8172, reg=0.3300, orth=0.0646, top1=0.7500, top5=0.9750
+====iteration_478000: fit=1.0637, reg=0.3299, orth=0.0645, top1=0.7500, top5=0.9000
+====iteration_478500: fit=1.3195, reg=0.3298, orth=0.0645, top1=0.7250, top5=0.9250
+====iteration_479000: fit=1.1086, reg=0.3297, orth=0.0645, top1=0.7750, top5=0.9750
+====iteration_479500: fit=1.1466, reg=0.3297, orth=0.0644, top1=0.7750, top5=0.9000
+====iteration_480000: fit=0.8164, reg=0.3296, orth=0.0644, top1=0.8500, top5=0.9250
+++++iteration_480000: top1=0.6618, top5=0.8727
+====iteration_480500: fit=1.1323, reg=0.3296, orth=0.0644, top1=0.7500, top5=0.9000
+====iteration_481000: fit=0.9304, reg=0.3295, orth=0.0643, top1=0.7750, top5=0.9250
+====iteration_481500: fit=0.9265, reg=0.3294, orth=0.0643, top1=0.8500, top5=0.9250
+====iteration_482000: fit=0.9776, reg=0.3293, orth=0.0642, top1=0.7500, top5=0.9250
+====iteration_482500: fit=0.9450, reg=0.3292, orth=0.0642, top1=0.7000, top5=0.9250
+====iteration_483000: fit=1.0951, reg=0.3292, orth=0.0642, top1=0.6750, top5=0.9250
+====iteration_483500: fit=1.0411, reg=0.3291, orth=0.0641, top1=0.7250, top5=0.8750
+====iteration_484000: fit=1.2554, reg=0.3290, orth=0.0641, top1=0.7000, top5=0.9250
+++++iteration_484000: top1=0.6610, top5=0.8727
+====iteration_484500: fit=0.7458, reg=0.3289, orth=0.0641, top1=0.8000, top5=0.9500
+====iteration_485000: fit=1.3028, reg=0.3289, orth=0.0640, top1=0.6750, top5=0.9000
+====iteration_485500: fit=1.2799, reg=0.3288, orth=0.0640, top1=0.6500, top5=0.9250
+====iteration_486000: fit=0.7403, reg=0.3287, orth=0.0639, top1=0.7750, top5=0.9750
+====iteration_486500: fit=0.9897, reg=0.3286, orth=0.0639, top1=0.8250, top5=0.9500
+====iteration_487000: fit=1.2606, reg=0.3285, orth=0.0639, top1=0.8000, top5=0.8750
+====iteration_487500: fit=1.1512, reg=0.3285, orth=0.0638, top1=0.7500, top5=0.9500
+====iteration_488000: fit=1.1164, reg=0.3284, orth=0.0638, top1=0.7000, top5=0.9000
+++++iteration_488000: top1=0.6596, top5=0.8730
+====iteration_488500: fit=0.9107, reg=0.3284, orth=0.0638, top1=0.8750, top5=0.9500
+====iteration_489000: fit=0.6651, reg=0.3283, orth=0.0637, top1=0.8250, top5=0.9750
+====iteration_489500: fit=1.1413, reg=0.3283, orth=0.0637, top1=0.7000, top5=0.9500
+====iteration_490000: fit=0.6395, reg=0.3282, orth=0.0636, top1=0.8250, top5=1.0000
+====iteration_490500: fit=0.6302, reg=0.3282, orth=0.0636, top1=0.9000, top5=1.0000
+====iteration_491000: fit=0.9240, reg=0.3282, orth=0.0636, top1=0.7750, top5=0.9500
+====iteration_491500: fit=0.9966, reg=0.3281, orth=0.0635, top1=0.8000, top5=0.9500
+====iteration_492000: fit=1.2073, reg=0.3281, orth=0.0635, top1=0.7500, top5=0.9000
+++++iteration_492000: top1=0.6610, top5=0.8719
+====iteration_492500: fit=0.8172, reg=0.3281, orth=0.0635, top1=0.9000, top5=0.9750
+====iteration_493000: fit=0.8311, reg=0.3280, orth=0.0634, top1=0.8000, top5=0.9750
+====iteration_493500: fit=1.1047, reg=0.3280, orth=0.0634, top1=0.7000, top5=0.9500
+====iteration_494000: fit=1.0416, reg=0.3279, orth=0.0634, top1=0.6750, top5=0.9250
+====iteration_494500: fit=0.8906, reg=0.3279, orth=0.0633, top1=0.8500, top5=0.9500
+====iteration_495000: fit=0.7357, reg=0.3278, orth=0.0633, top1=0.8250, top5=0.9500
+====iteration_495500: fit=1.4504, reg=0.3278, orth=0.0633, top1=0.7000, top5=0.8750
+====iteration_496000: fit=1.1540, reg=0.3277, orth=0.0632, top1=0.6750, top5=0.9500
+++++iteration_496000: top1=0.6591, top5=0.8707
+====iteration_496500: fit=0.7152, reg=0.3276, orth=0.0632, top1=0.7750, top5=0.9500
+====iteration_497000: fit=0.8876, reg=0.3276, orth=0.0632, top1=0.7750, top5=0.9250
+====iteration_497500: fit=0.8414, reg=0.3275, orth=0.0631, top1=0.8750, top5=0.9500
+====iteration_498000: fit=0.7735, reg=0.3275, orth=0.0631, top1=0.8000, top5=0.9750
+====iteration_498500: fit=1.1438, reg=0.3274, orth=0.0631, top1=0.8000, top5=0.9250
+====iteration_499000: fit=1.0957, reg=0.3274, orth=0.0630, top1=0.7000, top5=0.9250
+====iteration_499500: fit=1.2157, reg=0.3273, orth=0.0630, top1=0.7750, top5=0.9000
+====iteration_500000: fit=1.0982, reg=0.3272, orth=0.0630, top1=0.7000, top5=0.9000
+++++iteration_500000: top1=0.6594, top5=0.8734
+====iteration_500500: fit=0.9735, reg=0.3272, orth=0.0629, top1=0.7750, top5=0.9500
+====iteration_501000: fit=1.0892, reg=0.3271, orth=0.0629, top1=0.7750, top5=0.9250
+====iteration_501500: fit=0.9049, reg=0.3271, orth=0.0629, top1=0.7750, top5=0.9500
+====iteration_502000: fit=0.8415, reg=0.3270, orth=0.0628, top1=0.7500, top5=0.9750
+====iteration_502500: fit=1.1318, reg=0.3270, orth=0.0628, top1=0.7250, top5=0.9000
+====iteration_503000: fit=1.0159, reg=0.3269, orth=0.0628, top1=0.7750, top5=0.9750
+====iteration_503500: fit=0.9388, reg=0.3268, orth=0.0627, top1=0.8000, top5=0.9250
+====iteration_504000: fit=0.7151, reg=0.3268, orth=0.0627, top1=0.8250, top5=0.9750
+++++iteration_504000: top1=0.6603, top5=0.8722
+====iteration_504500: fit=1.3711, reg=0.3267, orth=0.0627, top1=0.7250, top5=0.8750
+====iteration_505000: fit=0.8249, reg=0.3266, orth=0.0626, top1=0.8000, top5=0.9750
+====iteration_505500: fit=1.0521, reg=0.3266, orth=0.0626, top1=0.8000, top5=0.9250
+====iteration_506000: fit=1.0497, reg=0.3265, orth=0.0626, top1=0.7250, top5=0.9000
+====iteration_506500: fit=0.8498, reg=0.3265, orth=0.0625, top1=0.8000, top5=0.9000
+====iteration_507000: fit=0.6763, reg=0.3264, orth=0.0625, top1=0.9000, top5=0.9500
+====iteration_507500: fit=0.7054, reg=0.3263, orth=0.0625, top1=0.8250, top5=0.9750
+====iteration_508000: fit=0.7573, reg=0.3263, orth=0.0624, top1=0.8250, top5=0.9750
+++++iteration_508000: top1=0.6579, top5=0.8707
+====iteration_508500: fit=1.0433, reg=0.3262, orth=0.0624, top1=0.7750, top5=0.9250
+====iteration_509000: fit=1.3535, reg=0.3262, orth=0.0624, top1=0.7250, top5=0.8500
+====iteration_509500: fit=1.2966, reg=0.3261, orth=0.0623, top1=0.6500, top5=0.8750
+====iteration_510000: fit=1.1815, reg=0.3260, orth=0.0623, top1=0.6750, top5=0.9000
+====iteration_510500: fit=1.1664, reg=0.3260, orth=0.0623, top1=0.6750, top5=0.9250
+====iteration_511000: fit=0.8403, reg=0.3259, orth=0.0622, top1=0.7750, top5=0.9750
+====iteration_511500: fit=1.1608, reg=0.3258, orth=0.0622, top1=0.7250, top5=0.9000
+====iteration_512000: fit=0.9221, reg=0.3258, orth=0.0622, top1=0.7750, top5=0.9500
+++++iteration_512000: top1=0.6598, top5=0.8724
+====iteration_512500: fit=0.6943, reg=0.3257, orth=0.0622, top1=0.8750, top5=0.9500
+====iteration_513000: fit=0.9798, reg=0.3257, orth=0.0621, top1=0.7000, top5=0.9250
+====iteration_513500: fit=0.9721, reg=0.3256, orth=0.0621, top1=0.6750, top5=0.9750
+====iteration_514000: fit=0.9909, reg=0.3256, orth=0.0620, top1=0.8000, top5=0.9500
+====iteration_514500: fit=1.2944, reg=0.3256, orth=0.0620, top1=0.7000, top5=0.9000
+====iteration_515000: fit=0.8153, reg=0.3255, orth=0.0620, top1=0.7750, top5=0.9750
+====iteration_515500: fit=0.8863, reg=0.3255, orth=0.0620, top1=0.8000, top5=0.9750
+====iteration_516000: fit=0.9946, reg=0.3255, orth=0.0619, top1=0.7250, top5=0.9500
+++++iteration_516000: top1=0.6563, top5=0.8680
+====iteration_516500: fit=1.1596, reg=0.3254, orth=0.0619, top1=0.7500, top5=0.8750
+====iteration_517000: fit=1.3075, reg=0.3254, orth=0.0618, top1=0.6750, top5=0.9000
+====iteration_517500: fit=1.1476, reg=0.3253, orth=0.0618, top1=0.7750, top5=0.9250
+====iteration_518000: fit=0.5425, reg=0.3253, orth=0.0618, top1=0.8750, top5=1.0000
+====iteration_518500: fit=0.5468, reg=0.3253, orth=0.0618, top1=0.9000, top5=0.9500
+====iteration_519000: fit=0.5432, reg=0.3252, orth=0.0617, top1=0.8500, top5=0.9750
+====iteration_519500: fit=1.0185, reg=0.3252, orth=0.0617, top1=0.7500, top5=0.9250
+====iteration_520000: fit=0.8100, reg=0.3252, orth=0.0617, top1=0.8250, top5=0.9250
+++++iteration_520000: top1=0.6599, top5=0.8723
+====iteration_520500: fit=0.9896, reg=0.3251, orth=0.0616, top1=0.7000, top5=0.9500
+====iteration_521000: fit=0.6140, reg=0.3251, orth=0.0616, top1=0.8250, top5=1.0000
+====iteration_521500: fit=1.9115, reg=0.3251, orth=0.0616, top1=0.6250, top5=0.8000
+====iteration_522000: fit=0.7258, reg=0.3250, orth=0.0615, top1=0.8500, top5=0.9750
+====iteration_522500: fit=0.8980, reg=0.3250, orth=0.0615, top1=0.7750, top5=0.9500
+====iteration_523000: fit=1.1845, reg=0.3249, orth=0.0615, top1=0.7250, top5=0.8500
+====iteration_523500: fit=0.8772, reg=0.3249, orth=0.0614, top1=0.8250, top5=0.9500
+====iteration_524000: fit=0.6291, reg=0.3248, orth=0.0614, top1=0.8750, top5=0.9750
+++++iteration_524000: top1=0.6593, top5=0.8696
+====iteration_524500: fit=1.0364, reg=0.3248, orth=0.0614, top1=0.8000, top5=0.9250
+====iteration_525000: fit=0.9965, reg=0.3247, orth=0.0613, top1=0.7000, top5=0.9500
+====iteration_525500: fit=1.0638, reg=0.3247, orth=0.0613, top1=0.7250, top5=0.9000
+====iteration_526000: fit=0.6466, reg=0.3246, orth=0.0613, top1=0.8500, top5=0.9500
+====iteration_526500: fit=0.8901, reg=0.3246, orth=0.0612, top1=0.7750, top5=0.9750
+====iteration_527000: fit=0.8943, reg=0.3245, orth=0.0612, top1=0.7000, top5=0.9250
+====iteration_527500: fit=0.4765, reg=0.3245, orth=0.0612, top1=0.8750, top5=0.9750
+====iteration_528000: fit=0.4849, reg=0.3244, orth=0.0612, top1=0.9500, top5=1.0000
+++++iteration_528000: top1=0.6634, top5=0.8735
+====iteration_528500: fit=0.9072, reg=0.3244, orth=0.0611, top1=0.8250, top5=0.9500
+====iteration_529000: fit=0.9051, reg=0.3243, orth=0.0611, top1=0.7500, top5=0.9250
+====iteration_529500: fit=0.9991, reg=0.3243, orth=0.0611, top1=0.7250, top5=0.9500
+====iteration_530000: fit=0.9593, reg=0.3242, orth=0.0610, top1=0.8250, top5=0.9500
+====iteration_530500: fit=0.8778, reg=0.3242, orth=0.0610, top1=0.8250, top5=0.9500
+====iteration_531000: fit=0.9613, reg=0.3241, orth=0.0610, top1=0.8000, top5=0.9500
+====iteration_531500: fit=0.8992, reg=0.3241, orth=0.0609, top1=0.7750, top5=0.9500
+====iteration_532000: fit=0.7524, reg=0.3240, orth=0.0609, top1=0.8500, top5=0.9750
+++++iteration_532000: top1=0.6603, top5=0.8706
+====iteration_532500: fit=1.1272, reg=0.3240, orth=0.0609, top1=0.7250, top5=0.9000
+====iteration_533000: fit=0.7960, reg=0.3239, orth=0.0609, top1=0.8000, top5=0.9250
+====iteration_533500: fit=1.2638, reg=0.3238, orth=0.0608, top1=0.6500, top5=0.9000
+====iteration_534000: fit=0.8135, reg=0.3238, orth=0.0608, top1=0.8000, top5=0.9750
+====iteration_534500: fit=0.7861, reg=0.3237, orth=0.0608, top1=0.8000, top5=0.9250
+====iteration_535000: fit=1.2971, reg=0.3237, orth=0.0608, top1=0.6750, top5=0.9000
+====iteration_535500: fit=1.2741, reg=0.3236, orth=0.0607, top1=0.7000, top5=0.9000
+====iteration_536000: fit=1.1918, reg=0.3235, orth=0.0607, top1=0.7250, top5=0.9000
+++++iteration_536000: top1=0.6592, top5=0.8715
+====iteration_536500: fit=0.7802, reg=0.3235, orth=0.0607, top1=0.9000, top5=0.9500
+====iteration_537000: fit=1.2277, reg=0.3234, orth=0.0606, top1=0.7000, top5=0.9000
+====iteration_537500: fit=0.8011, reg=0.3234, orth=0.0606, top1=0.8250, top5=0.9250
+====iteration_538000: fit=0.8370, reg=0.3234, orth=0.0606, top1=0.8500, top5=0.9250
+====iteration_538500: fit=1.4182, reg=0.3233, orth=0.0606, top1=0.6250, top5=0.8750
+====iteration_539000: fit=1.0027, reg=0.3233, orth=0.0605, top1=0.7000, top5=0.8500
+====iteration_539500: fit=1.0245, reg=0.3233, orth=0.0605, top1=0.7500, top5=0.9250
+====iteration_540000: fit=0.9278, reg=0.3233, orth=0.0605, top1=0.7250, top5=0.9250
+++++iteration_540000: top1=0.6618, top5=0.8726
+====iteration_540500: fit=0.9752, reg=0.3232, orth=0.0604, top1=0.7250, top5=0.9250
+====iteration_541000: fit=0.9009, reg=0.3232, orth=0.0604, top1=0.8000, top5=0.9500
+====iteration_541500: fit=1.1945, reg=0.3232, orth=0.0604, top1=0.7000, top5=0.9250
+====iteration_542000: fit=0.8702, reg=0.3232, orth=0.0604, top1=0.7500, top5=0.9750
+====iteration_542500: fit=0.9220, reg=0.3231, orth=0.0603, top1=0.7500, top5=0.9500
+====iteration_543000: fit=1.0446, reg=0.3231, orth=0.0603, top1=0.7500, top5=0.9250
+====iteration_543500: fit=0.8955, reg=0.3230, orth=0.0603, top1=0.7500, top5=0.9000
+====iteration_544000: fit=1.0098, reg=0.3230, orth=0.0602, top1=0.7250, top5=0.9500
+++++iteration_544000: top1=0.6632, top5=0.8738
+====iteration_544500: fit=1.0740, reg=0.3230, orth=0.0602, top1=0.7250, top5=0.9250
+====iteration_545000: fit=0.8888, reg=0.3229, orth=0.0602, top1=0.7500, top5=0.9500
+====iteration_545500: fit=0.8372, reg=0.3229, orth=0.0602, top1=0.8000, top5=0.9500
+====iteration_546000: fit=0.8804, reg=0.3229, orth=0.0601, top1=0.8500, top5=0.9250
+====iteration_546500: fit=0.7300, reg=0.3228, orth=0.0601, top1=0.7750, top5=0.9500
+====iteration_547000: fit=0.6518, reg=0.3228, orth=0.0601, top1=0.8500, top5=0.9750
+====iteration_547500: fit=0.6770, reg=0.3227, orth=0.0600, top1=0.7750, top5=1.0000
+====iteration_548000: fit=0.7536, reg=0.3227, orth=0.0600, top1=0.8250, top5=0.9500
+++++iteration_548000: top1=0.6568, top5=0.8700
+====iteration_548500: fit=1.1215, reg=0.3227, orth=0.0600, top1=0.7500, top5=0.9250
+====iteration_549000: fit=1.2358, reg=0.3226, orth=0.0600, top1=0.6750, top5=0.8500
+====iteration_549500: fit=1.0793, reg=0.3226, orth=0.0599, top1=0.7500, top5=0.9250
+====iteration_550000: fit=0.9781, reg=0.3225, orth=0.0599, top1=0.8000, top5=0.9750
+====iteration_550500: fit=1.0180, reg=0.3225, orth=0.0599, top1=0.7250, top5=0.9500
+====iteration_551000: fit=0.7160, reg=0.3225, orth=0.0599, top1=0.8250, top5=0.9500
+====iteration_551500: fit=0.7872, reg=0.3225, orth=0.0599, top1=0.7250, top5=0.9750
+====iteration_552000: fit=0.6683, reg=0.3225, orth=0.0599, top1=0.8000, top5=0.9500
+++++iteration_552000: top1=0.6775, top5=0.8826
+====iteration_552500: fit=1.0518, reg=0.3225, orth=0.0599, top1=0.6750, top5=0.9250
+====iteration_553000: fit=0.4989, reg=0.3225, orth=0.0599, top1=0.9000, top5=0.9750
+====iteration_553500: fit=0.9610, reg=0.3225, orth=0.0599, top1=0.7750, top5=0.9000
+====iteration_554000: fit=0.7196, reg=0.3225, orth=0.0599, top1=0.8250, top5=0.9500
+====iteration_554500: fit=0.8264, reg=0.3225, orth=0.0599, top1=0.7750, top5=0.9750
+====iteration_555000: fit=0.7110, reg=0.3225, orth=0.0599, top1=0.8250, top5=0.9750
+====iteration_555500: fit=1.2269, reg=0.3225, orth=0.0599, top1=0.6250, top5=0.9750
+====iteration_556000: fit=0.6887, reg=0.3225, orth=0.0599, top1=0.8500, top5=0.9250
+++++iteration_556000: top1=0.6806, top5=0.8849
+====iteration_556500: fit=0.9424, reg=0.3225, orth=0.0599, top1=0.8250, top5=0.9500
+====iteration_557000: fit=1.1424, reg=0.3224, orth=0.0599, top1=0.7250, top5=0.9250
+====iteration_557500: fit=0.8358, reg=0.3224, orth=0.0598, top1=0.8250, top5=0.9500
+====iteration_558000: fit=1.3504, reg=0.3224, orth=0.0598, top1=0.6750, top5=0.9000
+====iteration_558500: fit=0.5756, reg=0.3224, orth=0.0598, top1=0.8750, top5=0.9750
+====iteration_559000: fit=1.1539, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.8750
+====iteration_559500: fit=0.9662, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.9500
+====iteration_560000: fit=0.6261, reg=0.3224, orth=0.0598, top1=0.9000, top5=0.9250
+++++iteration_560000: top1=0.6810, top5=0.8856
+====iteration_560500: fit=1.3193, reg=0.3224, orth=0.0598, top1=0.6500, top5=0.8500
+====iteration_561000: fit=1.1020, reg=0.3224, orth=0.0598, top1=0.6500, top5=0.9000
+====iteration_561500: fit=0.9118, reg=0.3224, orth=0.0598, top1=0.8000, top5=0.9500
+====iteration_562000: fit=0.9768, reg=0.3224, orth=0.0598, top1=0.7500, top5=0.9250
+====iteration_562500: fit=0.8455, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.9250
+====iteration_563000: fit=0.9125, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.9500
+====iteration_563500: fit=0.8653, reg=0.3224, orth=0.0598, top1=0.8250, top5=0.9250
+====iteration_564000: fit=0.7703, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.9750
+++++iteration_564000: top1=0.6815, top5=0.8855
+====iteration_564500: fit=0.8806, reg=0.3224, orth=0.0598, top1=0.8250, top5=0.9250
+====iteration_565000: fit=0.7524, reg=0.3224, orth=0.0598, top1=0.8250, top5=0.9750
+====iteration_565500: fit=0.7698, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.9250
+====iteration_566000: fit=0.8544, reg=0.3224, orth=0.0598, top1=0.8250, top5=0.9250
+====iteration_566500: fit=0.8673, reg=0.3224, orth=0.0598, top1=0.8000, top5=0.9250
+====iteration_567000: fit=0.7159, reg=0.3224, orth=0.0598, top1=0.8750, top5=0.9500
+====iteration_567500: fit=1.0510, reg=0.3224, orth=0.0598, top1=0.7750, top5=0.9250
+====iteration_568000: fit=0.4426, reg=0.3224, orth=0.0598, top1=0.9250, top5=1.0000
+++++iteration_568000: top1=0.6823, top5=0.8863
+====iteration_568500: fit=1.0021, reg=0.3224, orth=0.0598, top1=0.7000, top5=0.9500
+====iteration_569000: fit=0.7416, reg=0.3223, orth=0.0598, top1=0.8500, top5=0.9750
+====iteration_569500: fit=0.6665, reg=0.3223, orth=0.0598, top1=0.8500, top5=0.9750
+====iteration_570000: fit=0.6664, reg=0.3223, orth=0.0597, top1=0.8250, top5=0.9500
+====iteration_570500: fit=0.8594, reg=0.3223, orth=0.0597, top1=0.8500, top5=0.9500
+====iteration_571000: fit=0.9423, reg=0.3223, orth=0.0597, top1=0.8250, top5=0.9500
+====iteration_571500: fit=0.6058, reg=0.3223, orth=0.0597, top1=0.8500, top5=0.9750
+====iteration_572000: fit=0.5928, reg=0.3223, orth=0.0597, top1=0.8750, top5=0.9750
+++++iteration_572000: top1=0.6817, top5=0.8865
+====iteration_572500: fit=0.8691, reg=0.3223, orth=0.0597, top1=0.7250, top5=0.9750
+====iteration_573000: fit=0.5509, reg=0.3223, orth=0.0597, top1=0.8750, top5=1.0000
+====iteration_573500: fit=0.7965, reg=0.3223, orth=0.0597, top1=0.8250, top5=0.9750
+====iteration_574000: fit=0.6333, reg=0.3223, orth=0.0597, top1=0.9000, top5=0.9750
+====iteration_574500: fit=0.8175, reg=0.3223, orth=0.0597, top1=0.8250, top5=0.9500
+====iteration_575000: fit=0.9945, reg=0.3223, orth=0.0597, top1=0.7750, top5=0.9500
+====iteration_575500: fit=0.6937, reg=0.3223, orth=0.0597, top1=0.8750, top5=0.9500
+====iteration_576000: fit=1.0105, reg=0.3223, orth=0.0597, top1=0.7500, top5=0.9250
+++++iteration_576000: top1=0.6815, top5=0.8865
+====iteration_576500: fit=1.0799, reg=0.3223, orth=0.0597, top1=0.7250, top5=0.9000
+====iteration_577000: fit=0.6881, reg=0.3223, orth=0.0597, top1=0.8500, top5=0.9250
+====iteration_577500: fit=0.7865, reg=0.3223, orth=0.0597, top1=0.7000, top5=0.9750
+====iteration_578000: fit=0.4914, reg=0.3223, orth=0.0597, top1=0.9500, top5=1.0000
+====iteration_578500: fit=1.2506, reg=0.3223, orth=0.0597, top1=0.7250, top5=0.8750
+====iteration_579000: fit=0.7489, reg=0.3223, orth=0.0597, top1=0.8500, top5=0.9750
+====iteration_579500: fit=0.6147, reg=0.3223, orth=0.0597, top1=0.8000, top5=0.9750
+====iteration_580000: fit=1.1858, reg=0.3223, orth=0.0597, top1=0.7000, top5=0.9500
+++++iteration_580000: top1=0.6832, top5=0.8869
+====iteration_580500: fit=1.0469, reg=0.3223, orth=0.0597, top1=0.7750, top5=0.9250
+====iteration_581000: fit=0.8376, reg=0.3223, orth=0.0597, top1=0.8250, top5=0.9500
+====iteration_581500: fit=0.8295, reg=0.3223, orth=0.0597, top1=0.8500, top5=0.9500
+====iteration_582000: fit=0.9238, reg=0.3223, orth=0.0597, top1=0.8000, top5=0.9250
+====iteration_582500: fit=0.6887, reg=0.3223, orth=0.0597, top1=0.8750, top5=1.0000
+====iteration_583000: fit=1.2398, reg=0.3223, orth=0.0596, top1=0.7250, top5=0.9250
+====iteration_583500: fit=1.0581, reg=0.3223, orth=0.0596, top1=0.6750, top5=0.9000
+====iteration_584000: fit=1.0287, reg=0.3223, orth=0.0596, top1=0.7750, top5=0.9250
+++++iteration_584000: top1=0.6828, top5=0.8870
+====iteration_584500: fit=0.5926, reg=0.3223, orth=0.0596, top1=0.9000, top5=1.0000
+====iteration_585000: fit=0.7958, reg=0.3222, orth=0.0596, top1=0.7750, top5=0.9500
+====iteration_585500: fit=0.4953, reg=0.3222, orth=0.0596, top1=0.9000, top5=1.0000
+====iteration_586000: fit=0.7500, reg=0.3222, orth=0.0596, top1=0.8750, top5=0.9500
+====iteration_586500: fit=0.5024, reg=0.3222, orth=0.0596, top1=0.9000, top5=0.9750
+====iteration_587000: fit=0.6861, reg=0.3222, orth=0.0596, top1=0.8250, top5=0.9750
+====iteration_587500: fit=0.6332, reg=0.3222, orth=0.0596, top1=0.9000, top5=0.9750
+====iteration_588000: fit=0.5187, reg=0.3222, orth=0.0596, top1=0.9000, top5=1.0000
+++++iteration_588000: top1=0.6823, top5=0.8861
+====iteration_588500: fit=0.6912, reg=0.3222, orth=0.0596, top1=0.8750, top5=0.9250
+====iteration_589000: fit=1.0957, reg=0.3222, orth=0.0596, top1=0.7750, top5=0.9000
+====iteration_589500: fit=0.8443, reg=0.3222, orth=0.0596, top1=0.8000, top5=0.9500
+====iteration_590000: fit=0.9274, reg=0.3222, orth=0.0596, top1=0.8000, top5=0.9500
+====iteration_590500: fit=0.7498, reg=0.3222, orth=0.0596, top1=0.8500, top5=0.9750
+====iteration_591000: fit=0.5240, reg=0.3222, orth=0.0596, top1=0.8750, top5=0.9750
+====iteration_591500: fit=0.8099, reg=0.3222, orth=0.0596, top1=0.7750, top5=0.9750
+====iteration_592000: fit=0.8316, reg=0.3222, orth=0.0596, top1=0.7750, top5=0.9750
+++++iteration_592000: top1=0.6831, top5=0.8866
+====iteration_592500: fit=1.0478, reg=0.3222, orth=0.0596, top1=0.8000, top5=0.9750
+====iteration_593000: fit=1.1881, reg=0.3222, orth=0.0596, top1=0.7500, top5=0.9250
+====iteration_593500: fit=0.5822, reg=0.3222, orth=0.0596, top1=0.9500, top5=0.9750
+====iteration_594000: fit=0.7414, reg=0.3222, orth=0.0596, top1=0.8250, top5=0.9500
+====iteration_594500: fit=0.5848, reg=0.3222, orth=0.0596, top1=0.9500, top5=0.9500
+====iteration_595000: fit=0.7172, reg=0.3222, orth=0.0596, top1=0.8250, top5=0.9750
+====iteration_595500: fit=1.1306, reg=0.3222, orth=0.0596, top1=0.6750, top5=0.9500
+====iteration_596000: fit=1.0719, reg=0.3222, orth=0.0595, top1=0.8250, top5=0.9000
+++++iteration_596000: top1=0.6844, top5=0.8867
+====iteration_596500: fit=0.7960, reg=0.3222, orth=0.0595, top1=0.8500, top5=0.9250
+====iteration_597000: fit=0.9395, reg=0.3222, orth=0.0595, top1=0.8000, top5=0.9500
+====iteration_597500: fit=1.0188, reg=0.3222, orth=0.0595, top1=0.7750, top5=0.9000
+====iteration_598000: fit=0.6004, reg=0.3222, orth=0.0595, top1=0.8750, top5=0.9750
+====iteration_598500: fit=0.8332, reg=0.3222, orth=0.0595, top1=0.8000, top5=0.9750
+====iteration_599000: fit=1.0339, reg=0.3222, orth=0.0595, top1=0.7500, top5=0.9250
+====iteration_599500: fit=0.6150, reg=0.3222, orth=0.0595, top1=0.9250, top5=0.9750
+====iteration_600000: fit=0.7985, reg=0.3222, orth=0.0595, top1=0.8250, top5=0.9250
+++++iteration_600000: top1=0.6827, top5=0.8868
+====iteration_600500: fit=0.9425, reg=0.3222, orth=0.0595, top1=0.8250, top5=0.9250
+====iteration_601000: fit=1.0907, reg=0.3222, orth=0.0595, top1=0.7500, top5=0.9250
+====iteration_601500: fit=0.7536, reg=0.3221, orth=0.0595, top1=0.8000, top5=0.9500
+====iteration_602000: fit=0.8627, reg=0.3221, orth=0.0595, top1=0.8000, top5=0.9250
+====iteration_602500: fit=0.6331, reg=0.3221, orth=0.0595, top1=0.8750, top5=1.0000
+====iteration_603000: fit=0.8263, reg=0.3221, orth=0.0595, top1=0.8000, top5=0.9500
+====iteration_603500: fit=1.1891, reg=0.3221, orth=0.0595, top1=0.7250, top5=0.9500
+====iteration_604000: fit=0.7954, reg=0.3221, orth=0.0595, top1=0.9250, top5=0.9500
+++++iteration_604000: top1=0.6838, top5=0.8869
+====iteration_604500: fit=0.9193, reg=0.3221, orth=0.0595, top1=0.7750, top5=0.9750
+====iteration_605000: fit=1.1123, reg=0.3221, orth=0.0595, top1=0.7250, top5=0.8750
+====iteration_605500: fit=1.0147, reg=0.3221, orth=0.0595, top1=0.7500, top5=0.9250
+====iteration_606000: fit=0.7778, reg=0.3221, orth=0.0595, top1=0.8000, top5=0.9750
+====iteration_606500: fit=0.8052, reg=0.3221, orth=0.0595, top1=0.8500, top5=0.9500
+====iteration_607000: fit=0.9724, reg=0.3221, orth=0.0595, top1=0.7750, top5=0.9250
+====iteration_607500: fit=0.8346, reg=0.3221, orth=0.0595, top1=0.7750, top5=0.9750
+====iteration_608000: fit=0.6492, reg=0.3221, orth=0.0595, top1=0.8500, top5=1.0000
+++++iteration_608000: top1=0.6837, top5=0.8862
+====iteration_608500: fit=0.5422, reg=0.3221, orth=0.0595, top1=0.9000, top5=0.9750
+====iteration_609000: fit=0.7508, reg=0.3221, orth=0.0594, top1=0.8000, top5=0.9250
+====iteration_609500: fit=0.9962, reg=0.3221, orth=0.0594, top1=0.7750, top5=0.9250
+====iteration_610000: fit=0.9030, reg=0.3221, orth=0.0594, top1=0.8000, top5=0.9500
+====iteration_610500: fit=1.0941, reg=0.3221, orth=0.0594, top1=0.7750, top5=0.9500
+====iteration_611000: fit=0.7244, reg=0.3221, orth=0.0594, top1=0.8250, top5=0.9750
+====iteration_611500: fit=1.0221, reg=0.3221, orth=0.0594, top1=0.7750, top5=0.8750
+====iteration_612000: fit=0.3060, reg=0.3221, orth=0.0594, top1=0.9500, top5=1.0000
+++++iteration_612000: top1=0.6826, top5=0.8871
+====iteration_612500: fit=0.6178, reg=0.3221, orth=0.0594, top1=0.8250, top5=1.0000
+====iteration_613000: fit=0.7988, reg=0.3221, orth=0.0594, top1=0.7750, top5=1.0000
+====iteration_613500: fit=0.4617, reg=0.3221, orth=0.0594, top1=0.9000, top5=1.0000
+====iteration_614000: fit=0.7175, reg=0.3221, orth=0.0594, top1=0.8500, top5=0.9750
+====iteration_614500: fit=0.8276, reg=0.3221, orth=0.0594, top1=0.7500, top5=0.9750
+====iteration_615000: fit=0.7601, reg=0.3221, orth=0.0594, top1=0.7500, top5=0.9750
+====iteration_615500: fit=0.9544, reg=0.3221, orth=0.0594, top1=0.8000, top5=0.9500
+====iteration_616000: fit=1.1584, reg=0.3221, orth=0.0594, top1=0.7000, top5=0.9000
+++++iteration_616000: top1=0.6836, top5=0.8866
+====iteration_616500: fit=0.7036, reg=0.3220, orth=0.0594, top1=0.8500, top5=0.9750
+====iteration_617000: fit=0.6272, reg=0.3220, orth=0.0594, top1=0.8750, top5=0.9750
+====iteration_617500: fit=0.8986, reg=0.3220, orth=0.0594, top1=0.8000, top5=0.9500
+====iteration_618000: fit=0.7034, reg=0.3220, orth=0.0594, top1=0.8750, top5=0.9750
+====iteration_618500: fit=0.8313, reg=0.3220, orth=0.0594, top1=0.8000, top5=0.9500
+====iteration_619000: fit=0.9252, reg=0.3220, orth=0.0594, top1=0.7250, top5=0.9750
+====iteration_619500: fit=0.7076, reg=0.3220, orth=0.0594, top1=0.8500, top5=1.0000
+====iteration_620000: fit=1.1119, reg=0.3220, orth=0.0594, top1=0.7750, top5=0.9000
+++++iteration_620000: top1=0.6838, top5=0.8871
+====iteration_620500: fit=0.4827, reg=0.3220, orth=0.0594, top1=0.9250, top5=1.0000
+====iteration_621000: fit=0.7334, reg=0.3220, orth=0.0594, top1=0.8000, top5=0.9750
+====iteration_621500: fit=0.8788, reg=0.3220, orth=0.0594, top1=0.7750, top5=0.9750
+====iteration_622000: fit=1.0803, reg=0.3220, orth=0.0593, top1=0.7500, top5=0.8750
+====iteration_622500: fit=0.8611, reg=0.3220, orth=0.0593, top1=0.7750, top5=0.9750
+====iteration_623000: fit=0.5437, reg=0.3220, orth=0.0593, top1=0.9500, top5=1.0000
+====iteration_623500: fit=0.5851, reg=0.3220, orth=0.0593, top1=0.8250, top5=1.0000
+====iteration_624000: fit=0.8000, reg=0.3220, orth=0.0593, top1=0.8000, top5=0.9000
+++++iteration_624000: top1=0.6832, top5=0.8873
+====iteration_624500: fit=0.5757, reg=0.3220, orth=0.0593, top1=0.9000, top5=0.9750
+====iteration_625000: fit=0.8885, reg=0.3220, orth=0.0593, top1=0.8000, top5=1.0000
+====iteration_625500: fit=1.0420, reg=0.3220, orth=0.0593, top1=0.8000, top5=0.9250
+====iteration_626000: fit=0.6404, reg=0.3220, orth=0.0593, top1=0.9000, top5=0.9500
+====iteration_626500: fit=0.9482, reg=0.3220, orth=0.0593, top1=0.7500, top5=0.9250
+====iteration_627000: fit=0.9060, reg=0.3220, orth=0.0593, top1=0.7500, top5=0.9750
+====iteration_627500: fit=0.8471, reg=0.3220, orth=0.0593, top1=0.8500, top5=0.9250
+====iteration_628000: fit=0.7747, reg=0.3220, orth=0.0593, top1=0.7500, top5=0.9750
+++++iteration_628000: top1=0.6844, top5=0.8875
+====iteration_628500: fit=0.9744, reg=0.3220, orth=0.0593, top1=0.8000, top5=0.9000
+====iteration_629000: fit=0.9898, reg=0.3220, orth=0.0593, top1=0.7500, top5=0.9000
+====iteration_629500: fit=0.7996, reg=0.3220, orth=0.0593, top1=0.8500, top5=0.9250
+====iteration_630000: fit=0.9704, reg=0.3220, orth=0.0593, top1=0.6250, top5=0.9750
+====iteration_630500: fit=0.7425, reg=0.3220, orth=0.0593, top1=0.8500, top5=0.9500
+====iteration_631000: fit=0.8143, reg=0.3220, orth=0.0593, top1=0.8250, top5=0.9500
+====iteration_631500: fit=0.9680, reg=0.3220, orth=0.0593, top1=0.8000, top5=0.9500
+====iteration_632000: fit=0.4692, reg=0.3219, orth=0.0593, top1=0.8750, top5=0.9500
+++++iteration_632000: top1=0.6835, top5=0.8874
+====iteration_632500: fit=0.8732, reg=0.3219, orth=0.0593, top1=0.8250, top5=0.9000
+====iteration_633000: fit=0.8111, reg=0.3219, orth=0.0593, top1=0.7250, top5=0.9500
+====iteration_633500: fit=0.7369, reg=0.3219, orth=0.0593, top1=0.8500, top5=0.9750
+====iteration_634000: fit=0.7937, reg=0.3219, orth=0.0593, top1=0.8750, top5=0.9500
+====iteration_634500: fit=1.2923, reg=0.3219, orth=0.0593, top1=0.7000, top5=0.9000
+====iteration_635000: fit=0.6890, reg=0.3219, orth=0.0593, top1=0.8750, top5=0.9750
+====iteration_635500: fit=0.8420, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9500
+====iteration_636000: fit=0.4382, reg=0.3219, orth=0.0592, top1=0.9000, top5=1.0000
+++++iteration_636000: top1=0.6836, top5=0.8869
+====iteration_636500: fit=0.6952, reg=0.3219, orth=0.0592, top1=0.8250, top5=0.9750
+====iteration_637000: fit=1.1769, reg=0.3219, orth=0.0592, top1=0.8000, top5=0.9000
+====iteration_637500: fit=0.9862, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9500
+====iteration_638000: fit=0.7132, reg=0.3219, orth=0.0592, top1=0.8000, top5=0.9500
+====iteration_638500: fit=1.0755, reg=0.3219, orth=0.0592, top1=0.7250, top5=0.9250
+====iteration_639000: fit=0.8148, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9750
+====iteration_639500: fit=0.9676, reg=0.3219, orth=0.0592, top1=0.8250, top5=0.9250
+====iteration_640000: fit=0.7234, reg=0.3219, orth=0.0592, top1=0.8000, top5=0.9750
+++++iteration_640000: top1=0.6842, top5=0.8874
+====iteration_640500: fit=0.9021, reg=0.3219, orth=0.0592, top1=0.7000, top5=0.9250
+====iteration_641000: fit=1.4409, reg=0.3219, orth=0.0592, top1=0.7000, top5=0.8500
+====iteration_641500: fit=0.9183, reg=0.3219, orth=0.0592, top1=0.8500, top5=0.9750
+====iteration_642000: fit=0.8706, reg=0.3219, orth=0.0592, top1=0.8000, top5=0.9500
+====iteration_642500: fit=0.8433, reg=0.3219, orth=0.0592, top1=0.8500, top5=0.9500
+====iteration_643000: fit=0.7341, reg=0.3219, orth=0.0592, top1=0.8250, top5=0.9750
+====iteration_643500: fit=0.6997, reg=0.3219, orth=0.0592, top1=0.8000, top5=0.9750
+====iteration_644000: fit=1.0071, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9500
+++++iteration_644000: top1=0.6842, top5=0.8877
+====iteration_644500: fit=0.6042, reg=0.3219, orth=0.0592, top1=0.8500, top5=0.9750
+====iteration_645000: fit=1.0143, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9250
+====iteration_645500: fit=0.7532, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9750
+====iteration_646000: fit=0.8855, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.9500
+====iteration_646500: fit=0.9863, reg=0.3219, orth=0.0592, top1=0.7750, top5=0.8750
+====iteration_647000: fit=1.4364, reg=0.3219, orth=0.0592, top1=0.7500, top5=0.8750
+====iteration_647500: fit=0.8021, reg=0.3219, orth=0.0592, top1=0.8500, top5=0.9500
+====iteration_648000: fit=0.4851, reg=0.3219, orth=0.0592, top1=0.8750, top5=0.9750
+++++iteration_648000: top1=0.6839, top5=0.8874
+====iteration_648500: fit=0.6153, reg=0.3219, orth=0.0592, top1=0.8500, top5=1.0000
+====iteration_649000: fit=0.6964, reg=0.3218, orth=0.0592, top1=0.8250, top5=0.9500
+====iteration_649500: fit=0.9085, reg=0.3218, orth=0.0591, top1=0.8000, top5=0.9250
+====iteration_650000: fit=0.7531, reg=0.3218, orth=0.0591, top1=0.8250, top5=0.9750
+====iteration_650500: fit=0.4734, reg=0.3218, orth=0.0591, top1=0.8750, top5=1.0000
+====iteration_651000: fit=0.4177, reg=0.3218, orth=0.0591, top1=0.9000, top5=1.0000
+====iteration_651500: fit=1.1135, reg=0.3218, orth=0.0591, top1=0.7250, top5=0.9250
+====iteration_652000: fit=1.0877, reg=0.3218, orth=0.0591, top1=0.7750, top5=0.9250
+++++iteration_652000: top1=0.6843, top5=0.8876
+====iteration_652500: fit=0.9501, reg=0.3218, orth=0.0591, top1=0.8250, top5=0.9500
+====iteration_653000: fit=0.6345, reg=0.3218, orth=0.0591, top1=0.8750, top5=0.9750
+====iteration_653500: fit=0.7881, reg=0.3218, orth=0.0591, top1=0.8250, top5=0.9250
+====iteration_654000: fit=0.7747, reg=0.3218, orth=0.0591, top1=0.8000, top5=0.9500
+====iteration_654500: fit=0.9185, reg=0.3218, orth=0.0591, top1=0.8000, top5=0.9250
+====iteration_655000: fit=0.8565, reg=0.3218, orth=0.0591, top1=0.8250, top5=0.9500
+====iteration_655500: fit=0.7849, reg=0.3218, orth=0.0591, top1=0.8750, top5=0.9750
+====iteration_656000: fit=1.2902, reg=0.3218, orth=0.0591, top1=0.6500, top5=0.9000
+++++iteration_656000: top1=0.6839, top5=0.8879
+====iteration_656500: fit=0.6429, reg=0.3218, orth=0.0591, top1=0.8500, top5=0.9500
+====iteration_657000: fit=0.8014, reg=0.3218, orth=0.0591, top1=0.7750, top5=0.9750
+====iteration_657500: fit=1.0310, reg=0.3218, orth=0.0591, top1=0.8500, top5=0.9250
+====iteration_658000: fit=0.5794, reg=0.3218, orth=0.0591, top1=0.8500, top5=1.0000
+====iteration_658500: fit=1.0606, reg=0.3218, orth=0.0591, top1=0.7250, top5=0.9000
+====iteration_659000: fit=0.8242, reg=0.3218, orth=0.0591, top1=0.7500, top5=0.9500
+====iteration_659500: fit=0.9177, reg=0.3218, orth=0.0591, top1=0.6500, top5=0.9250
+====iteration_660000: fit=0.8031, reg=0.3218, orth=0.0591, top1=0.7750, top5=0.9500
+++++iteration_660000: top1=0.6854, top5=0.8874
+====iteration_660500: fit=1.1262, reg=0.3218, orth=0.0591, top1=0.7250, top5=0.9500
+====iteration_661000: fit=0.5536, reg=0.3218, orth=0.0591, top1=0.8750, top5=1.0000
+====iteration_661500: fit=0.5737, reg=0.3218, orth=0.0591, top1=0.8500, top5=1.0000
+====iteration_662000: fit=0.8318, reg=0.3218, orth=0.0591, top1=0.7500, top5=0.9750
+====iteration_662500: fit=0.8516, reg=0.3218, orth=0.0591, top1=0.8500, top5=0.9000
+====iteration_663000: fit=0.8033, reg=0.3218, orth=0.0590, top1=0.8250, top5=0.9500
+====iteration_663500: fit=0.8748, reg=0.3218, orth=0.0590, top1=0.8000, top5=0.9750
+====iteration_664000: fit=0.5891, reg=0.3218, orth=0.0590, top1=0.8750, top5=0.9750
+++++iteration_664000: top1=0.6844, top5=0.8874
+====iteration_664500: fit=0.6066, reg=0.3218, orth=0.0590, top1=0.9250, top5=0.9750
+====iteration_665000: fit=0.9376, reg=0.3217, orth=0.0590, top1=0.7750, top5=0.9250
+====iteration_665500: fit=0.7759, reg=0.3217, orth=0.0590, top1=0.8000, top5=0.9500
+====iteration_666000: fit=0.6786, reg=0.3217, orth=0.0590, top1=0.8500, top5=0.9500
+====iteration_666500: fit=0.5372, reg=0.3217, orth=0.0590, top1=0.8750, top5=1.0000
+====iteration_667000: fit=0.5724, reg=0.3217, orth=0.0590, top1=0.8000, top5=1.0000
+====iteration_667500: fit=0.8744, reg=0.3217, orth=0.0590, top1=0.7250, top5=0.9750
+====iteration_668000: fit=0.7913, reg=0.3217, orth=0.0590, top1=0.8250, top5=0.9750
+++++iteration_668000: top1=0.6841, top5=0.8876
+====iteration_668500: fit=0.6345, reg=0.3217, orth=0.0590, top1=0.8750, top5=0.9750
+====iteration_669000: fit=0.6842, reg=0.3217, orth=0.0590, top1=0.8000, top5=0.9750
+====iteration_669500: fit=0.5538, reg=0.3217, orth=0.0590, top1=0.8500, top5=1.0000
+====iteration_670000: fit=0.6996, reg=0.3217, orth=0.0590, top1=0.8500, top5=0.9750
+====iteration_670500: fit=0.9640, reg=0.3217, orth=0.0590, top1=0.8000, top5=0.9000
+====iteration_671000: fit=0.8721, reg=0.3217, orth=0.0590, top1=0.8500, top5=0.9500
+====iteration_671500: fit=0.7196, reg=0.3217, orth=0.0590, top1=0.8500, top5=0.9750
+====iteration_672000: fit=1.2906, reg=0.3217, orth=0.0590, top1=0.7000, top5=0.9250
+++++iteration_672000: top1=0.6848, top5=0.8881
+====iteration_672500: fit=0.7898, reg=0.3217, orth=0.0590, top1=0.7500, top5=0.9500
+====iteration_673000: fit=0.5536, reg=0.3217, orth=0.0590, top1=0.8500, top5=0.9750
+====iteration_673500: fit=0.7645, reg=0.3217, orth=0.0590, top1=0.8250, top5=1.0000
+====iteration_674000: fit=1.0481, reg=0.3217, orth=0.0590, top1=0.7750, top5=0.9500
+====iteration_674500: fit=1.0105, reg=0.3217, orth=0.0590, top1=0.8250, top5=0.9500
+====iteration_675000: fit=0.7913, reg=0.3217, orth=0.0590, top1=0.8000, top5=0.9750
+====iteration_675500: fit=0.6638, reg=0.3217, orth=0.0590, top1=0.9000, top5=0.9750
+====iteration_676000: fit=0.4935, reg=0.3217, orth=0.0590, top1=0.9250, top5=1.0000
+++++iteration_676000: top1=0.6858, top5=0.8879
+====iteration_676500: fit=0.8889, reg=0.3217, orth=0.0590, top1=0.7500, top5=0.9750
+====iteration_677000: fit=0.6733, reg=0.3217, orth=0.0589, top1=0.8000, top5=0.9750
+====iteration_677500: fit=0.9476, reg=0.3217, orth=0.0589, top1=0.8000, top5=0.9000
+====iteration_678000: fit=0.5277, reg=0.3217, orth=0.0589, top1=0.9000, top5=1.0000
+====iteration_678500: fit=1.0271, reg=0.3217, orth=0.0589, top1=0.6500, top5=0.9250
+====iteration_679000: fit=0.8592, reg=0.3217, orth=0.0589, top1=0.8000, top5=0.9250
+====iteration_679500: fit=0.8117, reg=0.3217, orth=0.0589, top1=0.8000, top5=0.9000
+====iteration_680000: fit=0.4330, reg=0.3217, orth=0.0589, top1=0.9250, top5=0.9750
+++++iteration_680000: top1=0.6850, top5=0.8880
+====iteration_680500: fit=0.6980, reg=0.3217, orth=0.0589, top1=0.8500, top5=0.9750
+====iteration_681000: fit=0.9659, reg=0.3217, orth=0.0589, top1=0.7500, top5=0.8750
+====iteration_681500: fit=1.2482, reg=0.3217, orth=0.0589, top1=0.7000, top5=0.8750
+====iteration_682000: fit=0.7684, reg=0.3216, orth=0.0589, top1=0.8250, top5=0.9750
+====iteration_682500: fit=0.5804, reg=0.3216, orth=0.0589, top1=0.8500, top5=0.9750
+====iteration_683000: fit=0.9161, reg=0.3216, orth=0.0589, top1=0.8250, top5=0.9250
+====iteration_683500: fit=0.8851, reg=0.3216, orth=0.0589, top1=0.8000, top5=0.9500
+====iteration_684000: fit=0.9133, reg=0.3216, orth=0.0589, top1=0.8000, top5=0.9500
+++++iteration_684000: top1=0.6851, top5=0.8882
+====iteration_684500: fit=0.8992, reg=0.3216, orth=0.0589, top1=0.7500, top5=0.9000
+====iteration_685000: fit=0.4736, reg=0.3216, orth=0.0589, top1=0.9000, top5=1.0000
+====iteration_685500: fit=0.6839, reg=0.3216, orth=0.0589, top1=0.8500, top5=0.9500
+====iteration_686000: fit=0.9712, reg=0.3216, orth=0.0589, top1=0.7750, top5=0.9250
+====iteration_686500: fit=1.0444, reg=0.3216, orth=0.0589, top1=0.7500, top5=0.8500
+====iteration_687000: fit=0.9117, reg=0.3216, orth=0.0589, top1=0.8250, top5=0.9250
+====iteration_687500: fit=0.8869, reg=0.3216, orth=0.0589, top1=0.7500, top5=0.9500
+====iteration_688000: fit=0.9653, reg=0.3216, orth=0.0589, top1=0.8000, top5=0.9250
+++++iteration_688000: top1=0.6853, top5=0.8888
+====iteration_688500: fit=0.7511, reg=0.3216, orth=0.0589, top1=0.8000, top5=0.9750
+====iteration_689000: fit=0.9498, reg=0.3216, orth=0.0589, top1=0.8000, top5=0.9000
+====iteration_689500: fit=0.8336, reg=0.3216, orth=0.0589, top1=0.8000, top5=0.9750
+====iteration_690000: fit=0.8389, reg=0.3216, orth=0.0589, top1=0.8000, top5=1.0000
+====iteration_690500: fit=1.2707, reg=0.3216, orth=0.0589, top1=0.7250, top5=0.8500
+====iteration_691000: fit=1.0177, reg=0.3216, orth=0.0589, top1=0.7250, top5=0.9000
+====iteration_691500: fit=0.7659, reg=0.3216, orth=0.0588, top1=0.8000, top5=0.9500
+====iteration_692000: fit=0.7228, reg=0.3216, orth=0.0588, top1=0.8000, top5=0.9750
+++++iteration_692000: top1=0.6855, top5=0.8879
+====iteration_692500: fit=0.7560, reg=0.3216, orth=0.0588, top1=0.8750, top5=0.9750
+====iteration_693000: fit=0.5851, reg=0.3216, orth=0.0588, top1=0.8250, top5=1.0000
+====iteration_693500: fit=0.9925, reg=0.3216, orth=0.0588, top1=0.7750, top5=0.9500
+====iteration_694000: fit=0.9086, reg=0.3216, orth=0.0588, top1=0.8000, top5=0.9500
+====iteration_694500: fit=0.8045, reg=0.3216, orth=0.0588, top1=0.8000, top5=0.9250
+====iteration_695000: fit=0.8312, reg=0.3216, orth=0.0588, top1=0.8750, top5=0.9500
+====iteration_695500: fit=0.7101, reg=0.3216, orth=0.0588, top1=0.8250, top5=0.9500
+====iteration_696000: fit=0.4739, reg=0.3216, orth=0.0588, top1=0.9250, top5=1.0000
+++++iteration_696000: top1=0.6848, top5=0.8877
+====iteration_696500: fit=0.8963, reg=0.3216, orth=0.0588, top1=0.7750, top5=1.0000
+====iteration_697000: fit=0.7603, reg=0.3216, orth=0.0588, top1=0.8500, top5=0.9500
+====iteration_697500: fit=0.9841, reg=0.3216, orth=0.0588, top1=0.8750, top5=0.9500
+====iteration_698000: fit=0.8131, reg=0.3216, orth=0.0588, top1=0.7500, top5=0.9250
+====iteration_698500: fit=0.5171, reg=0.3216, orth=0.0588, top1=0.9000, top5=1.0000
+====iteration_699000: fit=1.1185, reg=0.3216, orth=0.0588, top1=0.8250, top5=0.9250
+====iteration_699500: fit=1.0701, reg=0.3215, orth=0.0588, top1=0.8000, top5=0.9500
+====iteration_700000: fit=0.7732, reg=0.3215, orth=0.0588, top1=0.8000, top5=0.9750
+++++iteration_700000: top1=0.6864, top5=0.8887
