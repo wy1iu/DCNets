@@ -12,7 +12,7 @@ Decoupled Networks is released under the MIT License (refer to the LICENSE file 
 
 ### Contents
 0. [Introduction](#introduction)
-0. [Short Video Introduction](short-video-introduction)
+0. [Short Video Introduction](#short-video-introduction)
 0. [Citation](#citation)
 0. [Requirements](#requirements)
 0. [Usage](#usage)
