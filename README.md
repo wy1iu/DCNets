@@ -64,6 +64,7 @@ If you find our work useful in your research, please consider to cite:
 	```
 
 #### Part 2: CIFAR-100
+  - Training DCNets with TanhConv + Cosine on CIFAR-100:
 
 	```Shell
 	cd $SPHERENET_ROOT/dcnet_cifar100/tanh_cos
