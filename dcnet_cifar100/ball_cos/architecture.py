@@ -123,12 +123,12 @@ class VGG():
                 conv = tf.nn.conv2d(bottom, filt, [1, stride, stride, 1], padding=pad)
 
                 x_norm = self._get_input_norm(bottom, ksize, stride, pad)
-                conv /= x_norm
-                
                 radius = tf.get_variable('radius', (1,1,1,conv.get_shape()[-1]), 
                     initializer=tf.constant_initializer(1.0)) ** 2 + 1e-4
                 xnorm_mean = self.xnorm_batch_norm(x_norm, is_training)
-                conv *= tf.tanh(x_norm / xnorm_mean / radius)
+                adjusted_radius = radius * xnorm_mean
+                conv /= (adjusted_radius + tf.nn.relu(x_norm - adjusted_radius))
+
             else:
                 conv = tf.nn.conv2d(bottom, filt, [1, stride, stride, 1], padding=pad)
 

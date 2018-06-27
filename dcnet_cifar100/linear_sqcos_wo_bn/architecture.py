@@ -103,7 +103,7 @@ class VGG():
         tf.add_to_collection('orth_constraint', loss)
 
     def _conv_layer(self, bottom, ksize, n_filt, is_training, name, stride=1, 
-        bn=True, pad='SAME', norm=True, relu=False, reg=False, orth=False):
+        bn=False, pad='SAME', norm=True, relu=False, reg=False, orth=False):
 
         with tf.variable_scope(name) as scope:
             n_input = bottom.get_shape().as_list()[3]
@@ -124,11 +124,8 @@ class VGG():
 
                 x_norm = self._get_input_norm(bottom, ksize, stride, pad)
                 conv /= x_norm
-                
-                radius = tf.get_variable('radius', (1,1,1,conv.get_shape()[-1]), 
-                    initializer=tf.constant_initializer(1.0)) ** 2 + 1e-4
-                xnorm_mean = self.xnorm_batch_norm(x_norm, is_training)
-                conv *= tf.tanh(x_norm / xnorm_mean / radius)
+                conv *= tf.sign(conv) * conv
+                conv *= x_norm
             else:
                 conv = tf.nn.conv2d(bottom, filt, [1, stride, stride, 1], padding=pad)
 
@@ -140,22 +137,22 @@ class VGG():
             else:
                 return conv
 
-    def _resnet_unit_v1(self, bottom, ksize, n_filt, is_training, name, stride, 
-        norm, reg, orth):
+    def _resnet_unit_v1(self, bottom, ksize, n_filt, is_training, 
+        name, stride, norm, reg, orth):
 
         with tf.variable_scope(name):
 
             residual = self._conv_layer(bottom, ksize, n_filt, is_training, 'first', 
-                                        stride, norm=norm, reg=reg, orth=orth, relu=True)
+                                        stride, bn=False, norm=norm, reg=reg, orth=orth, relu=True)
             residual = self._conv_layer(residual, ksize, n_filt, is_training, name='second', 
-                                        stride=1, norm=norm, reg=reg, orth=orth, relu=False)
+                                        stride=1, bn=False, norm=norm, reg=reg, orth=orth, relu=False)
             
             n_input = bottom.get_shape().as_list()[3]
             if n_input==n_filt:
                 shortcut = bottom
             else:
                 shortcut = self._conv_layer(bottom, 1, n_filt, is_training, 'shortcut', 
-                    stride, bn=True, norm=False, reg=True, relu=False)
+                    stride, bn=False, norm=False, reg=True, relu=False)
             
             return tf.nn.relu(residual + shortcut)
 
@@ -172,7 +169,7 @@ class VGG():
         #32X32        
         n_out = 96
         feat = self._conv_layer(feat, ksize, n_out, is_training, 
-            name='root', bn=True, pad='SAME', norm=True, reg=False, orth=True)
+            name='root', bn=False, pad='SAME', norm=True, reg=False, orth=True)
 
         for i in range(n_layer):
             feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, 
