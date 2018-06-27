@@ -62,7 +62,7 @@ If you find our work useful in your research, please consider to cite:
   - Clone the repositary.
 
 	```Shell
-	git clone https://github.com/wy1iu/SphereNet.git
+	git clone https://github.com/wy1iu/DCNets.git
 	```
 
 #### Part 2: CIFAR-100
@@ -82,7 +82,7 @@ If you find our work useful in your research, please consider to cite:
   - We provide one example for ImageNet-2012. We use TanhConv magnitude function + Cosine angular activation in this implementation. The user can replace magnitude function and angular function with the other choices mentioned in the paper or any other customized functions.
 
 	```Shell
-	cd $SPHERENET_ROOT/dcnet_imagenet
+	cd $DCNET_ROOT/dcnet_imagenet
 	python train_DCnet.py
 	```
 
