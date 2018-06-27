@@ -79,7 +79,7 @@ If you find our work useful in your research, please consider to cite:
 
   - Download [ImageNet-2012](http://www.image-net.org/) dataset and process the dataset with [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/research/slim#an-automated-script-for-processing-imagenet-data).
 
-  - We provide one example with modified Resnet-18 for ImageNet-2012. We use TanhConv magnitude function + Cosine angular activation in this implementation. The user can replace magnitude function and angular function with the other choices mentioned in the paper or any other customized functions.
+  - We provide one example with the modified Resnet-18 for ImageNet-2012. We use TanhConv magnitude function + Cosine angular activation in this implementation. The user can replace magnitude function and angular function with the other choices mentioned in the paper or any other customized functions.
 
 	```Shell
 	cd $DCNET_ROOT/dcnet_imagenet
