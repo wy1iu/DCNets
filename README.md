@@ -12,13 +12,10 @@ Decoupled Networks is released under the MIT License (refer to the LICENSE file 
 
 ### Contents
 0. [Introduction](#introduction)
+0. [Short Video Introduction](short-video-introduction)
 0. [Citation](#citation)
 0. [Requirements](#requirements)
 0. [Usage](#usage)
-0. [Results](#results)
-0. [Notes](#notes)
-0. [Third-party re-implementation](#third-party-re-implementation)
-0. [Contact](#contact)
 
 
 ### Introduction
@@ -29,9 +26,15 @@ Our work is largely inspired and motivated by the observation that the CNN-learn
 
 <img src="asserts/decoupled_features.png" width="42%" height="42%">
 
-The central idea of decoupled networks lies in the decoupled convolution, which is used to replace all the original convolution operators.
+As illustrated as follows, the central idea of decoupled networks is the *decoupled convolution*, which is used to replace all the original convolution operators.
 
 <img src="asserts/decoupled_conv.png" width="55%" height="55%">
+
+### Short Video Introduction
+
+The following is a short video introduction by [Zhen Liu](http://itszhen.com/).
+
+[![DCNet_talk](https://img.youtube.com/vi/ZnYb0UBIPj0/0.jpg)](https://www.youtube.com/watch?v=ZnYb0UBIPj0)
 
 ### Citation
 
