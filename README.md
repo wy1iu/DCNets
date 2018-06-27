@@ -82,5 +82,5 @@ If you find our work useful in your research, please consider to cite:
 	python train_DCnet.py
 	```
 
-  - We provide [the result](https://github.com/wy1iu/DCNets/blob/master/dcnet_imagenet/results/training_log) for this implementation, which matches our reported result 88.9% in the paper.
+  - We provide [our result](https://github.com/wy1iu/DCNets/blob/master/dcnet_imagenet/results/training_log) for this implementation, which matches our reported result 88.9% in the paper.
 
