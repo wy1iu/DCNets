@@ -69,7 +69,7 @@ If you find our work useful in your research, please consider to cite:
   - Training DCNets with TanhConv + Cosine on CIFAR-100:
 
 	```Shell
-	cd $SPHERENET_ROOT/dcnet_cifar100/tanh_cos
+	cd $DCNET_ROOT/dcnet_cifar100/tanh_cos
 	python train_resnet.py
 	```
 
