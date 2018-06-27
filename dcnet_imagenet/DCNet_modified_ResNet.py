@@ -136,44 +136,43 @@ class DCNet():
 
     # Input should be an rgb image [batch, height, width, 3]
     def build(self, rgb, n_class, is_training):        
-        self.wd = 1e-4     
-        
+        self.wd = 1e-4
         self.sphere_dict = {}
 
-        #224X224
+        # 224X224
         ksize = 7
-        n_out = 128#64
+        n_out = 128
         feat = self._conv_layer(rgb, ksize, n_out, is_training, name='root', stride=2, bn=True, relu=True, pad='SAME', norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True, init_gau=False)
 
-        #112X112
+        # 112X112
         ksize = 3
         feat = self._max_pool(feat, ksize, 'max_pooling')
 
-        #56X56
-        n_out = 128#64
-        #feat = self._conv_layer(feat, ksize, n_out, is_training, name='conv1', stride=2, bn=False, relu=True, pad='SAME', norm=False, reg=False, orth=True, init_gau=False)
+        # 56X56
+        n_out = 128
         n_unit= 1
         for i in range(n_unit):
             feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block1_unit'+str(i), stride=1, norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True)
 
-        n_out = 256#128
+        n_out = 256
         feat = self._conv_layer(feat, ksize, n_out, is_training, name='conv2', stride=2, bn=True, relu=True, pad='SAME', norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True, init_gau=False)
         n_unit= 2
-        #28X28
+        # 28X28
         for i in range(n_unit):
             feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block2_unit'+str(i), stride=1, norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True)
 
-        n_out = 512#256
+        n_out = 512
         n_unit= 3
         feat = self._conv_layer(feat, ksize, n_out, is_training, name='conv3', stride=2, bn=True, relu=True, pad='SAME', norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True, init_gau=False)
-        #14X14
+        # 14X14
         for i in range(n_unit):
             feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block3_unit'+str(i), stride=1, norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True)
         
-        n_out = 1024#512
+        n_out = 1024
         n_unit= 1
         feat = self._conv_layer(feat, ksize, n_out, is_training, name='conv4', stride=2, bn=True, relu=True, pad='SAME', norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True, init_gau=False)
-        #7X7
+        # 7X7
+        # invalid in modified ResNet-18
         for i in range(n_unit):
             feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block4_unit'+str(i), stride=1, norm=True, reg=False, orth=True, w_norm=False, xnorm_bn=True)
 
