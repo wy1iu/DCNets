@@ -22,7 +22,11 @@ Decoupled Networks is released under the MIT License (refer to the LICENSE file 
 
 ### Introduction
 
-Inner product-based convolution has been a central component of convolutional neural networks (CNNs) and the key to learning visual representations. Inspired by the observation that CNN-learned features are naturally decoupled with the norm of features corresponding to the intra-class variation and the angle corresponding to the semantic difference, we propose a generic decoupled learning framework which models the intra-class variation and semantic difference independently. Specifically, we first reparametrize the inner product to a decoupled form and then generalize it to the decoupled convolution operator which serves as the building block of our decoupled networks. We present several effective instances of the decoupled convolution operator. Each decoupled operator is well motivated and has an intuitive geometric interpretation. Based on these decoupled operators, we further propose to directly learn the operator from data. Extensive experiments show that such decoupled reparameterization renders significant performance gain with easier convergence and stronger robustness. The latest version of our paper is available at [arXiv](https://arxiv.org/abs/1804.08071) and [here](http://wyliu.com/papers/LiuCVPR18_DCNets.pdf).
+Inner product-based convolution has been a central component of convolutional neural networks (CNNs) and the key to learning visual representations. Inspired by the observation that CNN-learned features are naturally decoupled with the norm of features corresponding to the intra-class variation and the angle corresponding to the semantic difference, we propose a generic decoupled learning framework which models the intra-class variation and semantic difference independently. 
+
+Specifically, we first reparametrize the inner product to a decoupled form and then generalize it to the decoupled convolution operator which serves as the building block of our decoupled networks. We present several effective instances of the decoupled convolution operator. Each decoupled operator is well motivated and has an intuitive geometric interpretation. Based on these decoupled operators, we further propose to directly learn the operator from data.
+
+The latest version of our paper is available at [arXiv](https://arxiv.org/abs/1804.08071) and [here](http://wyliu.com/papers/LiuCVPR18_DCNets.pdf).
 
 Our work is largely inspired and motivated by the observation that the CNN-learned features are naturally decoupled, as shown as follows.
 
@@ -83,7 +87,7 @@ If you find our work useful in your research, please consider to cite:
 
 	```Shell
 	cd $DCNET_ROOT/dcnet_imagenet
-	python train_DCnet.py
+	python train_DCNet.py
 	```
 
   - We provide [our result](https://github.com/wy1iu/DCNets/blob/master/dcnet_imagenet/results/training_log) for this implementation, which matches our reported result 88.9% in the paper.
