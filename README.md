@@ -1,6 +1,6 @@
 # Decoupled Networks
 
-By Weiyang Liu*, Zhen Liu*, Zhiding Yu, Bo Dai, Rongmei Lin, Yisen Wang, James Rehg, Le Song (* equal contribution)
+By Weiyang Liu*, Zhen Liu* (* equal contribution)
 
 ### License
 
