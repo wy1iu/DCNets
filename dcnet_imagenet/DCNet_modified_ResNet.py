@@ -1,11 +1,12 @@
+from __future__ import print_function
 import tensorflow as tf
 import numpy as numpy
 
 class DCNet():
     def get_conv_filter(self, shape, reg, stddev, xavier=False):
-    	if xavier:
-    		init = tf.contrib.layers.xavier_initializer()
-    	else:
+        if xavier:
+            init = tf.contrib.layers.xavier_initializer()
+        else:
             init = tf.random_normal_initializer(stddev=stddev)
         if reg:
             regu = tf.contrib.layers.l2_regularizer(self.wd)
