@@ -1,4 +1,6 @@
+from __future__ import print_function
 import numpy as numpy
+from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 from loss import loss2
 
@@ -64,37 +66,36 @@ threads = tf.train.start_queue_runners(sess=sess, coord=coord)
 lr = 1e-1
 for i in xrange(0, FLAGS.max_steps):
 
-	if i==200000:
-		lr = lr/10
-	if i==375000:
-		lr = lr/10
-	if i==550000:
-		lr = lr/10
+    if i==200000:
+        lr = lr/10
+    if i==375000:
+        lr = lr/10
+    if i==550000:
+        lr = lr/10
 
 
-	fit, reg, orth, top1, top5, _ = sess.run([fit_loss, reg_loss, orth_loss, top1_op, top5_op, update_op], 
-										{lr_: lr, is_training: True})
-	
-	if i%500==0 and i!=0:
-		print('====iteration_%d: fit=%.4f, reg=%.4f, orth=%.4f, top1=%.4f, top5=%.4f' 
-			% (i, fit, reg, orth, top1/FLAGS.batch_size, top5/FLAGS.batch_size))
+    fit, reg, orth, top1, top5, _ = sess.run([fit_loss, reg_loss, orth_loss, top1_op, top5_op, update_op], 
+                                        {lr_: lr, is_training: True})
+    
+    if i%500==0 and i!=0:
+        print('====iteration_%d: fit=%.4f, reg=%.4f, orth=%.4f, top1=%.4f, top5=%.4f' 
+            % (i, fit, reg, orth, top1/FLAGS.batch_size, top5/FLAGS.batch_size))
 
-	if i % 100 == 0 and i != 0:
-		sess.run(assign_op, {lr_: 0.0, is_training: False})
+    if i % 100 == 0 and i != 0:
+        sess.run(assign_op, {lr_: 0.0, is_training: False})
 
-	if i%4000==0 and i!=0:
-		n_test = val_set.num_examples_per_epoch()
-                batch_size = FLAGS.batch_size
-		top1= 0.0
-		top5= 0.0
-		for j in xrange(n_test/batch_size):
-			a, b = sess.run([top1_op, top5_op], {is_training: False})
-			top1 += a
-			top5 += b
-		top1 = top1/n_test
-		top5 = top5/n_test
-		print('++++iteration_%d: top1=%.4f, top5=%.4f' % (i, top1, top5))
+    if i%4000==0 and i!=0:
+        n_test = val_set.num_examples_per_epoch()
+        batch_size = FLAGS.batch_size
+        top1= 0.0
+        top5= 0.0
+        for j in xrange(n_test/batch_size):
+            a, b = sess.run([top1_op, top5_op], {is_training: False})
+            top1 += a
+            top5 += b
+        top1 = top1/n_test
+        top5 = top5/n_test
+        print('++++iteration_%d: top1=%.4f, top5=%.4f' % (i, top1, top5))
 
-	if i%100000==0 and i!=0:
-		tf.train.Saver().save(sess, FLAGS.model_file+str(i))
-
+    if i%100000==0 and i!=0:
+        tf.train.Saver().save(sess, FLAGS.model_file+str(i))

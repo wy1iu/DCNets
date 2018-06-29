@@ -1,3 +1,4 @@
+from __future__ import print_function
 import numpy as numpy
 import tensorflow as tf
 from loss import loss2
@@ -79,10 +80,10 @@ def train(base_lr=1e-3, batch_sz=128, gpu_no=0):
     coord = tf.train.Coordinator()
     threads = tf.train.start_queue_runners(sess=sess, coord=coord)
 
-    print
-    print "===================="
-    print "Log will be saved to: " + log_path
-    print
+    print()
+    print("====================")
+    print("Log will be saved to: " + log_path)
+    print()
     
     with open(os.path.join(log_path, 'log_test.txt'), 'w'):
         pass
